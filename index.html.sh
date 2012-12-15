@@ -13,6 +13,8 @@ echo '<html>
   <head>
     <style>
     * { margin: 0; padding: 0; width: 100%; height: 100%; }
+    a, a:visited, a:active, a:hover { color: inherit; text-decoration: inherit; }
+    a:hover { color: #444; }
     </style>
   </head>
   <body>
