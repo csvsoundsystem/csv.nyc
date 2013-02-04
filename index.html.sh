@@ -23,9 +23,9 @@ paste -d, $name $twitter $web
 echo '    </pre>
     <!-- Piwik --> 
     <script type="text/javascript">
-    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");
-    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script type="text/javascript">
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");'
+    echo "document.write(unescape(\"%3Cscript src='\" + pkBaseURL + \"piwik.js' type='text/javascript'%3E%3C/script%3E\"));"
+echo '    </script><script type="text/javascript">
     try {
     var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 14);
     piwikTracker.trackPageView();
