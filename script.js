@@ -7,6 +7,12 @@ var flash = function(i, bpm) {
     }, 60000 / bpm)
 }
 
-document.body.addEventListener('click', function() {
-    flash(0, 80)
-})
+var go = function() {
+    // Start the flashing
+    if (!document.body.style['background-color']) {
+        flash(0, 80)
+    }
+}
+
+document.body.addEventListener('click', go)
+document.body.addEventListener('touchend', go)
