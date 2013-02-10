@@ -12,20 +12,23 @@ cut -d, -f4 soundsystem.csv |sed '2,$ s_^\(..*\)_<a href="\1">\1</a>_' > $web
 echo '<html>
   <head>
     <style>
-    * { margin: 0; padding: 0; width: 100%; height: 100%; }
+    html, body, pre { margin: 0; padding: 0; width: 100%; height: 100%; }
     a, a:visited, a:active, a:hover { color: inherit; text-decoration: inherit; }
     a:hover { color: #444; }
+    #sticker { position: absolute; right: 50; top: 10; }
     </style>
   </head>
   <body>
+    <img src="csvsoundsystem.png" alt="CSV Soundsystem" id="sticker" />
     <pre>'
 paste -d, $name $twitter $web
 echo '    </pre>
+    <script src="script.js" type="text/javascript"></script>
     <!-- Piwik --> 
     <script type="text/javascript">
-    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");
-    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script type="text/javascript">
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");'
+    echo "document.write(unescape(\"%3Cscript src='\" + pkBaseURL + \"piwik.js' type='text/javascript'%3E%3C/script%3E\"));"
+echo '    </script><script type="text/javascript">
     try {
     var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 14);
     piwikTracker.trackPageView();

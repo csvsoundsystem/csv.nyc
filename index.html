@@ -1,15 +1,18 @@
 <html>
   <head>
     <style>
-    * { margin: 0; padding: 0; width: 100%; height: 100%; }
+    html, body, pre { margin: 0; padding: 0; width: 100%; height: 100%; }
     a, a:visited, a:active, a:hover { color: inherit; text-decoration: inherit; }
     a:hover { color: #444; }
+    #sticker { position: absolute; right: 50; top: 10; }
     </style>
   </head>
   <body>
+    <img src="csvsoundsystem.png" alt="CSV Soundsystem" id="sticker" />
     <pre>
 name,type,twitter,web
 Brian Abelson,person,<a href="https://twitter.com/brianabelson/">brianabelson</a>,<a href="http://brianabelson.org">http://brianabelson.org</a>
+Burton DeWilde,person,<a href="https://twitter.com/bjdewilde/">bjdewilde</a>,
 Andrew Hill,person,<a href="https://twitter.com/andrewxhill/">andrewxhill</a>,<a href="http://vizzuality.com">http://vizzuality.com</a>
 Julian Burgess,person,<a href="https://twitter.com/aubergene/">aubergene</a>,
 Susan McGregor,person,<a href="https://twitter.com/SusanEMcG/">SusanEMcG</a>,<a href="http://www.journalism.columbia.edu/profile/365-susan-e-mcgregor/10">http://www.journalism.columbia.edu/profile/365-susan-e-mcgregor/10</a>
@@ -19,16 +22,17 @@ Thomas Levine,person,<a href="https://twitter.com/thomaslevine/">thomaslevine</a
 Cezary Podkul,person,<a href="https://twitter.com/Cezary/">Cezary</a>,<a href="http://www.cezarypodkul.com/">http://www.cezarypodkul.com/</a>
 Jake Bialer,person,<a href="https://twitter.com/jbialer/">jbialer</a>,
 Christopher Reed,person,<a href="https://twitter.com/seereadnow/">seereadnow</a>,<a href="http://seeread.info">http://seeread.info</a>
-Story Ark,project,,<a href="https://csvsoundsystem.github.com/storyark">https://csvsoundsystem.github.com/storyark</a>
+Story Ark,project,,<a href="http://csvsoundsystem.github.com/storyark">http://csvsoundsystem.github.com/storyark</a>
 Hipstogram,project,,<a href="https://github.com/csvsoundsystem/hipstogram">https://github.com/csvsoundsystem/hipstogram</a>
-fms soundsystem,project,,<a href="http://csvsoundsystem.github.com/fms-treasury-statements-site">http://csvsoundsystem.github.com/fms-treasury-statements-site</a>
+fms symphony,project,,<a href="http://fms.csvsoundsystem.com/">http://fms.csvsoundsystem.com/</a>
 csv soundsystem,project,,<a href="http://github.com/csvsoundsystem/csvsoundsystem">http://github.com/csvsoundsystem/csvsoundsystem</a>
 This file,csv,,<a href="soundsystem.csv">soundsystem.csv</a>
     </pre>
+    <script src="script.js" type="text/javascript"></script>
     <!-- Piwik --> 
     <script type="text/javascript">
     var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");
-    document.write(unescape("%3Cscript src= + pkBaseURL + piwik.js type=text/javascript%3E%3C/script%3E"));
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script type="text/javascript">
     try {
     var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 14);
