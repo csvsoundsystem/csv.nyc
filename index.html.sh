@@ -23,7 +23,7 @@ echo '<html>
     <pre>'
 paste -d, $name $twitter $web
 echo '    </pre>
-    <script src="script.js" type="text/javascript"></script>
+    <script src="csv.js" type="text/javascript"></script>
     <!-- Piwik --> 
     <script type="text/javascript">
     var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");'
