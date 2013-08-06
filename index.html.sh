@@ -12,7 +12,7 @@ cut -d, -f4 soundsystem.csv |sed '2,$ s_^\(..*\)_<a target="\_blank" href="\1">\
 echo '<html>
   <head>
     <title>CSV Soundsystem</title>
-    <description>data band, hacker collective and datathon dreamteam</description>
+    <meta name="description" content="data band, hacker collective and datathon dreamteam" />
     <style>
     html, body, pre { margin: 0; padding: 0; width: 100%; height: 100%; }
     a, a:visited, a:active, a:hover { color: inherit; text-decoration: inherit; }
