@@ -6,7 +6,7 @@ title: csv soundsystem Tuesday 1 07, 6:45 Think Coffee, Mercer + 4th
 
 Join us, wont you, for the first CSV in 2013.
 
-http://www.youtube.com/watch?v=UCrNwyoNPr0
+<iframe width="420" height="315" src="//www.youtube.com/embed/UCrNwyoNPr0" frameborder="0" allowfullscreen></iframe>
 
 Thomas Levine is coding in my house, my house <br/>
 He'll show you the ropes kid, he'll show you the ropes <br/>
