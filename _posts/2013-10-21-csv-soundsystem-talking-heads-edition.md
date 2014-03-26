@@ -12,47 +12,47 @@ Join us, won't you?
 
 This week's song: 
 This Must Be The Place — The Talking Heads
-
-http://www.youtube.com/watch?v=CMPIxEWGs5g
-
-Chrome - is where I want to be
-Firefox always shuts down
-IE's numb - made without real art
-this is not the web we spun 
-The less I use Safari the better
-Animating so much seems wrong
-Keep tabs around
-Memory's fine
-It's ok I know nothing's wrong... nothing
-
-Hiyah I inspect all my sites
-Hiyah You spot a blight in my styles
-And the network tab beside me
-Shows image rendering times
-Never too many
-Always enough
-Glue em up replace with sprites... replace with sprites.
-
-Chrome - is where i want to be
-But i guess i'm already there
-I come home -- she loaded my bookmarks
-I guess that this must be the place
-I can't sail the web with another 
-Did i find you, or you find me?
-There was a time
-before you were born
-If someone asks, I used Opera 3... Opera 3.
-
-Hiya clear all my cache out
-Hiya speak this page with "Ralph"
-Out of all those kinds of browsers
-You've got UX I can use
-I'm just a google'r looking for info
-Traverse the graph in a second or two
-And you store all my extensions
-Cookie's never dead
-Forms fill right up, ads out of view
-Filter out the spam bots
-Hit Gecko on the head - I go hooooh-oooooh
-
+<br/>
+<iframe width="420" height="315" src="//www.youtube.com/embed/CMPIxEWGs5g" frameborder="0" allowfullscreen></iframe>
+<br/>
+Chrome - is where I want to be<br/>
+Firefox always shuts down<br/>
+IE's numb - made without real art<br/>
+this is not the web we spun <br/>
+The less I use Safari the better<br/>
+Animating so much seems wrong<br/>
+Keep tabs around<br/>
+Memory's fine<br/>
+It's ok I know nothing's wrong... nothing<br/>
+<br/>
+Hiyah I inspect all my sites<br/>
+Hiyah You spot a blight in my styles<br/>
+And the network tab beside me<br/>
+Shows image rendering times<br/>
+Never too many<br/>
+Always enough<br/>
+Glue em up replace with sprites... replace with sprites.<br/>
+<br/>
+Chrome - is where i want to be<br/>
+But i guess i'm already there<br/>
+I come home -- she loaded my bookmarks<br/>
+I guess that this must be the place<br/>
+I can't sail the web with another <br/>
+Did i find you, or you find me?<br/>
+There was a time<br/>
+before you were born<br/>
+If someone asks, I used Opera 3... Opera 3.<br/>
+<br/>
+Hiya clear all my cache out<br/>
+Hiya speak this page with "Ralph"<br/>
+Out of all those kinds of browsers<br/>
+You've got UX I can use<br/>
+I'm just a google'r looking for info<br/>
+Traverse the graph in a second or two<br/>
+And you store all my extensions<br/>
+Cookie's never dead<br/>
+Forms fill right up, ads out of view<br/>
+Filter out the spam bots<br/>
+Hit Gecko on the head - I go hooooh-oooooh<br/>
+<br/>
 ####
