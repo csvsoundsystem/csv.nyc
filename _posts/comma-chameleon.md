@@ -1,34 +1,34 @@
-Desert loving in your eyes all the way
-If I listened to your lies would you say
-I'm a man page
-without conviction
-I'm a man page
-who is full of
-Flags and contradictions
-You comma and go
-You comma and go
-Comma Comma Comma Comma Comma Chameleon
-You comma and go
-You comma and go
-Loving would be easy if your colors were like my PS1
-Red gold and green
-Red gold and green
-Didn't hear your wicked words every day
-And you used to be so sweet I heard you say
-That my shell
-was an addiction
-When we bind
-our love is strong
-When you reboot
-you're gone forever
-Your strings are long
-Your strings are long
-Every day is like a survival
-You're my lover not my rival
-Every day is like a survival
-You're my lover not my rival
-I'm a man without conviction
-I'm a man who doesn't know
-How to sell a contradiction
-You comma and go
-You comma and go
+Desert loving in your eyes all the way<br/>
+If I listened to your lies would you say<br/>
+I'm a man page<br/>
+without conviction<br/>
+I'm a man page<br/>
+who is full of<br/>
+Flags and contradictions<br/>
+You comma and go<br/>
+You comma and go<br/>
+Comma Comma Comma Comma Comma Chameleon<br/>
+You comma and go<br/>
+You comma and go<br/>
+Loving would be easy if your colors were like my PS1<br/>
+Red gold and green<br/>
+Red gold and green<br/>
+Didn't hear your wicked words every day<br/>
+And you used to be so sweet I heard you say<br/>
+That my shell<br/>
+was an addiction<br/>
+When we bind<br/>
+our love is strong<br/>
+When you reboot<br/>
+you're gone forever<br/>
+Your strings are long<br/>
+Your strings are long<br/>
+Every day is like a survival<br/>
+You're my lover not my rival<br/>
+Every day is like a survival<br/>
+You're my lover not my rival<br/>
+I'm a man without conviction<br/>
+I'm a man who doesn't know<br/>
+How to sell a contradiction<br/>
+You comma and go<br/>
+You comma and go<br/>
