@@ -1,6 +1,6 @@
 ---
 layout: post
-title: csv soundsystem: Tuesday Think Coffee, Mercer and 4th, 7 PM
+title: csv soundsystem - Tuesday Think Coffee, Mercer and 4th, 7 PM
 ---
 
 
