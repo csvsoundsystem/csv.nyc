@@ -13,7 +13,7 @@ This week's song / poem
 
 More than this by Roxy Music re-imagined as an ode to the ups and downs of the "this" keyword in JavaScript.<br/>
 <br/>
-http://www.youtube.com/watch?v=kOnde5c7OG8
+<iframe width="420" height="315" src="//www.youtube.com/embed/kOnde5c7OG8" frameborder="0" allowfullscreen></iframe>
 <br/>
 <br/>
 I could feel at runtime<br/>
