@@ -16,10 +16,10 @@ Door's open at 6, but they won't go on until 7:30. I'll be going to Think afterw
 An excerpt from T.S. Elliot's Little Gidding:
 
 
-We shall not cease from st_transformation
-And the end of all our transforming
-Will be to arrive at where we started
-And to know the place for the first time
+We shall not cease from st_transformation <br>
+And the end of all our transforming <br>
+Will be to arrive at where we started <br>
+And to know the place for the first time <br>
 
 --
 join us, won't you?
