@@ -1,3 +1,7 @@
 body {
   font-family: monospace;
 }
+
+ul {
+	list-style: none;
+}
