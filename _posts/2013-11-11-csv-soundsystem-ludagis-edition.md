@@ -9,9 +9,11 @@ We'll be meeting Tuesday, November 12 at Think Coffee at Mercer and Fourth start
 Join us, won't you?
 ###
 
-This week's song is from guest writer Dave Riordan
-Geocodes - by LudaGIS
+This week's song is from guest writer Dave Riordan<br/>
+Geocodes - by LudaGIS<br/>
+<br/>
 <iframe width="420" height="315" src="//www.youtube.com/embed/cvrKzmkdBTI" frameborder="0" allowfullscreen></iframe>
+<br/>
 <br/>
 [Hook]<br/>
 I run codes<br/>
