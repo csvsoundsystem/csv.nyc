@@ -6,7 +6,7 @@ title: csv soundsystem, Tomorrow, Tuesday May 28, 6:45pm, Think Coffee, Mercer +
 <br/>
 The Fresh Prince of my MacBook Air
 <br/>
-http://www.youtube.com/watch?v=3qHA366oRMs
+<iframe width="420" height="315" src="//www.youtube.com/embed/3qHA366oRMs" frameborder="0" allowfullscreen></iframe>
 <br/>
 Now, this is a story all about how<br/>
 My PATH got flipped-turned upside down<br/>
