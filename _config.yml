@@ -1,0 +1,4 @@
+name: CSV Soundsystem
+markdown: redcarpet
+pygments: true
+permalink: /csvmails/:year-:month-:day-:title.html
