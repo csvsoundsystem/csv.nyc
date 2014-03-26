@@ -6,14 +6,14 @@ title: csv soundsystem: Tuesday Think Coffee, Mercer and 4th, 7 PM
 
 Couplets:
 
-Commas pipes tabs and spaces
-When one goes astray it makes angry faces.
-Formatting addresses don't even get me started,
-My geocoded results are something Kepler would've charted.
-So bring your laptop and join in the fun ever so
-of making and scripting with csv & co.
-Tuesday at 7, there's beer wine and quiche
-Join us, won't you? Whatever your niche.
+Commas pipes tabs and spaces <br/>
+When one goes astray it makes angry faces. <br/>
+Formatting addresses don't even get me started, <br/>
+My geocoded results are something Kepler would've charted. <br/>
+So bring your laptop and join in the fun ever so <br/>
+of making and scripting with csv & co.<br/>
+Tuesday at 7, there's beer wine and quiche <br/>
+Join us, won't you? Whatever your niche. <br/>
 
 
 
