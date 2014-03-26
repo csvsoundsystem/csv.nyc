@@ -16,27 +16,27 @@ Our quieter charts:
 http://fms.csvsoundsystem.com/,/
 
 
-If you're new to the list, we like to send out our weekly reminders in verse/poem or song lyric form, set to the obvious theme.
+If you're new to the list, we like to send out our weekly reminders in verse/poem or song lyric form, set to the obvious theme.<br/>
 This week "With Thee Conversing" Paradise Lost, Book IV, line 639
-
-With thee delimiting I forget all time,
-All columns and their widths, -- all please alike.
-Sweet is the uniqueness of pipes, their slenderness sweet,
-With charm of subtle descender; pleasant the function
-When first on this delightful frame it spreads
-Its aggregating powers on string, int, float and var,
-Glist'ring with Monokai; flagrant the table's trends
-After quick cleaning; and sweet the coming on
-Of insightful findings inspired; then silent study
-With this its trusty pipes and this fair query,
-And these the scatterplots of heaven, her * train:
-But neither uniqueness of pipes when they slender
-With charm of subtle descender, nor aggregating function
-On this delightful frame, nor string, int, float, var,
-Glist'ring with Monokai, nor flagrance after cleaning,
-Nor insightful findings inspired, nor silent study
-With this its trusy pipes, nor fair query
-Or glittering * light, without thee is sweet.
-
+<br/>
+With thee delimiting I forget all time,<br/>
+All columns and their widths, -- all please alike.<br/>
+Sweet is the uniqueness of pipes, their slenderness sweet,<br/>
+With charm of subtle descender; pleasant the function<br/>
+When first on this delightful frame it spreads<br/>
+Its aggregating powers on string, int, float and var,<br/>
+Glist'ring with Monokai; flagrant the table's trends<br/>
+After quick cleaning; and sweet the coming on<br/>
+Of insightful findings inspired; then silent study<br/>
+With this its trusty pipes and this fair query,<br/>
+And these the scatterplots of heaven, her * train:<br/>
+But neither uniqueness of pipes when they slender<br/>
+With charm of subtle descender, nor aggregating function<br/>
+On this delightful frame, nor string, int, float, var,<br/>
+Glist'ring with Monokai, nor flagrance after cleaning,<br/>
+Nor insightful findings inspired, nor silent study<br/>
+With this its trusy pipes, nor fair query<br/>
+Or glittering * light, without thee is sweet.<br/>
+<br/>
 ---
 Join us, won't you?
