@@ -1,6 +1,6 @@
 ---
 layout: post
-title: permanent move: csv soundsystem this TUESDAY (tomorrow) 6:45 Think Coffee, Mercer + 4th
+title: permanent move - csv soundsystem this TUESDAY (tomorrow) 6:45 Think Coffee, Mercer + 4th
 ---
 
 
