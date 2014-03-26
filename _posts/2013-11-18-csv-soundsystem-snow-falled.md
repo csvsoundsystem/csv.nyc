@@ -8,9 +8,10 @@ We'll be meeting tomorrow ( or today depending on when you read this ), Tuesday 
 Join us, won't you?
 
 ##
-Snow Fall, I Love You, But You're Bringing Me Down
-<iframe width="420" height="315" src="//www.youtube.com/embed/-eohHwsplvY" frameborder="0" allowfullscreen></iframe>
+Snow Fall, I Love You, But You're Bringing Me Down<br/>
 <br/>
+<iframe width="420" height="315" src="//www.youtube.com/embed/-eohHwsplvY" frameborder="0" allowfullscreen></iframe>
+<br/><br/>
 Snow Fall, I Love You<br/>
 But you're bringing me down<br/>
 <br/>
