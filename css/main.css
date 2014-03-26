@@ -3,5 +3,11 @@ body {
 }
 
 ul {
-	list-style: none;
+  list-style: none;
+}
+
+#csv-sticker {
+  position: absolute; 
+  right: 50px; 
+  top: 10px;
 }
