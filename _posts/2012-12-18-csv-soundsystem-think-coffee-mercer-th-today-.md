@@ -7,7 +7,7 @@ title: csv soundsystem, think coffee (mercer + 4th), today @ 6:45
 or, if you prefer:
 00101110011011101000110010101101101, 40.739, -74.003, 1355813100
 
-https://www.youtube.com/watch?v=yuTMWgOduFM
+<iframe width="420" height="315" src="//www.youtube.com/embed/yuTMWgOduFM" frameborder="0" allowfullscreen></iframe>
 
 This week: Pulp's "Comma People" <br/>
 
