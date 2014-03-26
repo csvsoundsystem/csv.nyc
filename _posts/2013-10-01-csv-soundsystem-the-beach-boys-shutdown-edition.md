@@ -10,7 +10,7 @@ Cezar crafted today's poem to commemorate the government shutdown — accompanie
 
 #####
 
-http://www.youtube.com/watch?v=nxXWjR6q5u4
+<iframe width="420" height="315" src="//www.youtube.com/embed/nxXWjR6q5u4" frameborder="0" allowfullscreen></iframe>
 
 #####
 
