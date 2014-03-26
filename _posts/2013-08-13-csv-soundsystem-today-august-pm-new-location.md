@@ -11,40 +11,43 @@ Here's a map of where it is because we google for a living, sometimes we want a 
 ###
 This week's song / poem
 
-More than this by Roxy Music re-imagined as an ode to the ups and downs of the "this" keyword in JavaScript.
+More than this by Roxy Music re-imagined as an ode to the ups and downs of the "this" keyword in JavaScript.<br/>
+<br/>
 http://www.youtube.com/watch?v=kOnde5c7OG8
-
-I could feel at runtime
-There was no way of knowing
-this.showMe() was the line
-Who can say what it's showing
-So free without .bind()
-Hopefully referring
-To the "Me" in my mind
-With no sense of scoping
-
-More than this
-You know there's nothing more than this 
-Tell me one thing more than this 
-ooh there is nothing
-
-that = this was fun for a while
-There's a simple way of storing
-Which context was right
-And methods were going
-No care in the world
-Maybe I'm learning
-Why this this in a block
-Has no way of noting
-
-More than this
-You know there's nothing more than this 
-Tell me one thing more than this 
-ooh there is nothing
-
-More than this nothing
-More than this
-More than this nothing
+<br/>
+<br/>
+I could feel at runtime<br/>
+There was no way of knowing<br/>
+this.showMe() was the line<br/>
+Who can say what it's showing<br/>
+So free without .bind()<br/>
+Hopefully referring<br/>
+To the "Me" in my mind<br/>
+With no sense of scoping<br/>
+<br/>
+More than this<br/>
+You know there's nothing more than this <br/>
+Tell me one thing more than this <br/>
+ooh there is nothing<br/>
+<br/>
+that = this was fun for a while<br/>
+There's a simple way of storing<br/>
+Which context was right<br/>
+And methods were going<br/>
+No care in the world<br/>
+Maybe I'm learning<br/>
+Why this this in a block<br/>
+Has no way of noting<br/>
+<br/>
+More than this<br/>
+You know there's nothing more than this<br/> 
+Tell me one thing more than this <br/>
+ooh there is nothing<br/>
+<br/>
+More than this nothing<br/>
+More than this<br/>
+More than this nothing<br/>
+<br/>
 ###
 
 Join us, won't you?
