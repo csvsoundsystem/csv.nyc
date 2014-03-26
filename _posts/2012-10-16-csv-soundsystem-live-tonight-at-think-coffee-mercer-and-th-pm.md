@@ -3,7 +3,6 @@ layout: post
 title: csv soundsystem: live tonight at Think! Coffee, Mercer and 4th, 7 PM
 ---
 
-
 From now on, Michael and I will only send out our invitations in rhymed verse. This week, a limerick:
 
 huzzah! huzzah! another CSV! <br/>
