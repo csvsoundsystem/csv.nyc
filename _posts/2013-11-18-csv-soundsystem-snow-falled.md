@@ -85,7 +85,7 @@ Maybe I'm wrong<br/>
 And just maybe you're right<br/>
 <br/>
 And Ohhhhhhhhhhh..<br/>
-Maybe Maggy told you true<br/>
+Maybe <a href="http://publiceditor.blogs.nytimes.com/2013/08/20/who-gets-to-snow-fall-or-jockey-at-the-times-and-why/?_php=true&_type=blogs&_r=0" target="_blank">Maggy</a> told you true<br/>
 And you'll get to Snow Fall with @KevinQ<br/>
 And you'll never scroll alone<br/>
 <br/>
