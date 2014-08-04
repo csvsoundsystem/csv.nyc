@@ -6,7 +6,7 @@ title: csv soundsystem
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fff; clear:left; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -35,7 +35,7 @@ var $mcj = jQuery.noConflict(true);
 <!--End mc_embed_signup-->
 
 <div id="home">
-  <h2>CSVmails</h2>
+  <h2>csvmails</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span>,<a href="{{ post.url }}">{{ post.title }}</a></li>
