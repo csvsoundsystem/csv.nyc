@@ -3,6 +3,17 @@ layout: default
 title: csv soundsystem
 ---
 
+<a href="/about">about csv soundsystem</a>
+
+<div id="home">
+  <h2>csvmails</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span>,<a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -34,13 +45,5 @@ var $mcj = jQuery.noConflict(true);
 </script>
 <!--End mc_embed_signup-->
 
-<div id="home">
-  <h2>csvmails</h2>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span>,<a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
 
-<a href="/about">about csv soundsystem</a>
+
