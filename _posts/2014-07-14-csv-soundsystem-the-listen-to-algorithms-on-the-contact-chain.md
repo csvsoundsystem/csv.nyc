@@ -1,6 +1,6 @@
 ---
 layout: post
-title: csv soundsystem, The Listen to Algorithsm on the Contact Chain
+title: csv soundsystem, The Listen to Algorithms on the Contact Chain
 ---
 
 <br/>
