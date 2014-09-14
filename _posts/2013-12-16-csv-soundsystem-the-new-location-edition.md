@@ -1,6 +1,6 @@
 ---
 layout: post
-title: csv soundsystem
+title: csv soundsystem: The *New Location* Edition
 ---
 
 
