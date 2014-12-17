@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		span {
+			position: absolute;
+			color: #666;
+		}
+
+		#commaVerse {
+			-webkit-perspective: 1000px;
+			margin: 0 auto;
+			font-size: 50px;
+		}
+
+		#commaCube {
+			margin: 0 auto;
+			-webkit-animation: rotate 15s infinite linear; /* Safari 4+ */
+			-webkit-transform-style: preserve-3d;
+			-webkit-transform-origin: 50% 50%;
+		}
+
+		@-webkit-keyframes rotate {
+			0%   { -webkit-transform: rotateY(0deg); }
+			100% { -webkit-transform: rotateY(360deg); }
+		}
+
+	</style>
+</head>
+<body>
+
+<div id="commaVerse">
+	<div id="commaCube"></div>
+
+</div>
+
+<script type="text/javascript">
+
+	var size = 1200
+	var n = 10
+	var spacing = size / n | 0
+
+	var commaCube = document.getElementById('commaCube')
+
+	commaCube.style.width = size + 'px'
+	commaCube.style.height = size + 'px'
+
+	for (var z = 0; z < n; z++) {
+		var layer = document.createElement('div')
+		commaCube.appendChild(layer)
+		layer.style.webkitTransform = 'translateZ(' + ((z * spacing) - (size * .5)) + 'px)'
+		for (var x = 0; x < n; x++) {
+			for (var y = 0; y < n; y++) {
+				var comma = document.createElement('span')
+				comma.textContent = ','
+				layer.appendChild(comma)
+				comma.style.webkitTransform = 'translate(' + x * spacing + 'px, ' + y * spacing + 'px)'
+			}
+		}
+	};
+
+
+</script>
+
+</body>
+</html>
