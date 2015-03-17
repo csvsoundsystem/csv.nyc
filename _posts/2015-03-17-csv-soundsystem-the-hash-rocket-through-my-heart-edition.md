@@ -13,9 +13,9 @@ join us, won't you?
 
 ########
 
-This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: [https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/](https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/). In tribute, called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 looks really promising and he's looking forward to the future. Here's what he sent us:
+This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: [https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/](https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/). In tribute, we called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 is really promising and he's looking forward to the future. Here's what he sent us:
 
-Twin Shadow — Hash rocket through my heart (Five Seconds)
+Twin Shadow — Hash rocket through my heart
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/wg4IhOpndrQ" frameborder="0" allowfullscreen></iframe>
 
