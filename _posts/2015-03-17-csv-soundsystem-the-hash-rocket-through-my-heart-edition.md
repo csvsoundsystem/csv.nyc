@@ -1,34 +1,100 @@
 ---
 layout: post
-title: csv soundsystem week 2
+title: csv soundsystem, The Hash Rocket Through My Heart Edition
 ---
 
 
-Last week a few of us got together to work on some coding stuff after work. It was fun so we're gonna do it again. Maybe every Wednesday and we're calling it csv soundsystem because it seems appropriate. Last week i worked on some underscore.js and brian showed us how he makes awesome comment boxes in R — everyone was really impressed by it.
+Hi everyone, 
 
-If you're down for week two, we're gonna be at think coffe on mercer and 4th starting at 6:45 cause they have tables, wifi, good coffee according to marc georges and soup. 
+We'll be at Antler Dispensary (123 Allen St. at Delancey) starting around 6:45pm tomorrow (Tuesday 3/17).
+----
+join us, won't you?
 
-#################
-#               #
-#      See      #
-#      You      #
-#     There     #
-#       !       #
-#               #
-#################
+########
+This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/. In tribute, called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 looks really promising and he's looking forward to the future. Here's what he sent us:
 
-end note
+Twin Shadow — Hash rocket through my heart (Five Seconds)
+https://www.youtube.com/watch?v=wg4IhOpndrQ
 
-# Brian replied
 
-#########################
-#
-#  should I invite the   Q
-#
-#################        M
-                # 
-                #        S
-                #                          #
-                #        S     list serv ? #
-                #                          #
-                ############################
+Hash rocket through my heart
+Straight through my heart
+I can't gets from your heart
+She said, hash rocket through your heart
+Chomps on your heart
+I can't gets from your heart
+
+Linking builds to the right line
+Bring my head up from 1.9
+I hope its benign
+
+rbenv I bawl for you
+You don't install for me
+See how you do |make me cry|?
+
+Hash rocket through my heart
+Straight through my heart
+I can't gets from your heart
+
+1.9.3 won't update at all
+
+Hash rocket through your heart
+Straight through your heart
+I can't gets from your heart
+
+Hash rocket through my heart
+Straight through my heart
+I can't gets from your heart
+She said, hash rocket through your heart
+Chomps on your heart
+I can't gets from your heart
+
+Upgrade my splendor
+But I'm faint
+You keep erroring on
+On some stream
+Look at this trace
+
+But when it's done, gems shines bright
+And when it's done we puts
+And when it's done, gems shine bright
+And when it's done we puts
+
+Hash rocket through my heart
+Straight through my heart
+I can't gets from your heart
+She said, hash rocket through your heart
+Straight through the heart
+I can't gets from your heart
+
+1.9.3 won't update at all
+
+Hash rocket through my heart
+Straight through  my heart
+I can't gets from your heart
+
+My keys fly to make you alive
+
+rbenv I bawl for...
+You don't install for me
+See how you do |make me cry|?
+
+1.9.3 won't update at all
+I don't know why
+My keys fly to make you alive
+
+Hash rocket through your heart
+Straight through the heart
+I can't gets from your heart
+
+Hash rocket through my heart
+Chomps my heart
+I can't gets from your heart
+
+1.9.3 won't update at all
+I don't know why
+My keys fly to make you alive
+
+Hash rocket through your heart
+Straight through your heart
+I can't gets from your heart
