@@ -21,6 +21,6 @@
 
     // Add the sticker if it's not already there
     if (!d.getElementById('csv-sticker')) {
-        d.body.innerHTML += '<a href="http://csvsoundsystem.com" target="_blank"><img src="http://csvsoundsystem.com/csvsoundsystem.png" alt="CSV Soundsystem" id="csv-sticker" style="position: absolute; right: 50px; top: 10px;" /></a>'
+        d.body.innerHTML += '<a href="http://csv.nyc" target="_blank"><img src="http://csv.nyc/csvsoundsystem.png" alt="csv soundsystem" id="csv-sticker" style="position: absolute; right: 50px; top: 10px;" /></a>'
     }
 })(document)
