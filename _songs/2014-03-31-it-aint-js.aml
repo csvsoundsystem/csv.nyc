@@ -1,0 +1,49 @@
+date: 2014-03-31
+artist: Bob Dylan
+title: It Ain't Js Babe
+originalTitle: It Ain't Me Babe
+tags: async, javascript
+video:  https://www.youtube.com/watch?v=4d8o8vNTNao
+linerNotes: this week's song is a throwback to Counting Crows with "My Smart Phone", a song about the filtered imagined life of instagram and its endless desires for faves.
+:end
+
+lyrics: Go 'way from browser window
+For interpreted I've sure got speed
+I'm not the one you want, babe
+I'm not the one you need
+You say you're lookin' for some lang
+Who's not weakly typed but strong
+To protect you an' defend you
+When using integer or long
+Some lang with array comprehensions and more
+But it ain't JS, babe
+No, no, no, it ain't JS babe
+It ain't JS you're lookin' for, babe.
+
+Go lightly with the objects, babe
+Go lightly with Math.round
+I'm not the one for comparisons, babe
+I will only let you down
+You say you're lookin' for some lang
+With async promises from the start
+Some lang to close its sockets for you
+Some lang not close to Dart
+Some lang who will fatal for you an' more
+But it ain't JS, babe
+No, no, no, it ain't JS babe
+It ain't JS you're lookin' for, babe.
+
+Go meld back in the diff
+Everything inside is made of C
+There's nothing in here 'cept V8
+An' anyway I'm not always compiled
+You say you're looking for some lang
+Who'll catch you up each time you throw
+To garbage collect constantly
+An' to return each time you setTimeout
+A lover for you HTML an' nothing more
+But it ain't JS, babe
+No, no, no, it ain't JS, babe
+It ain't JS you're lookin' for, babe.
+
+:end
