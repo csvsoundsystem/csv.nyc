@@ -1,0 +1,2259 @@
+date,artist,title,originalTitle,tags,video,linerNotes,lyrics,x2
+2017-05-08,Jennifer Lopez,Jenny from the blo.cks,Jenny from the Block,"blo.cks, gist,",https://www.youtube.com/watch?v=lUfcdJ9DPag,"the song this week is written by michael and julian: ""Jenny from the bl.ocks"". we are encouraging ourselves to make a bl.ock this week and we invite you to the same challenge and perhaps work on a bl.ock-chain of consecutive successful weeks.","Children gist and women producing
+Men go working
+Some go stealing
+Everyone's got to do some coding
+
+B L O C K S
+M. Bo
+We off the bl.ocks this year
+Went from a low to a lot this year
+Everybody mad at the mocks that I share
+I know where I'm codin' and I know where I forked from
+You hear BLOCKS in the air
+Yea, we're at the airport out DBlock
+Where everybody force-layout
+With a stealblue Tee, you fresh
+Nothin' .phony with us, make the files, get the preview, push the index with us
+
+Don't be fooled by the stars that I got
+I'm still, I'm still Jenny from the b.locks
+Used to have a little, now I have a lot
+No matter where I code, I know where I forked from (Client-Side Bl.ocks!)
+Don't be fooled by the stars that I got
+I'm still, I'm still Jenny from the bl.ocks
+Used to have a little, now I have a lot
+No matter where I code, I know where I forked from (Client-Side Bl.ocks!)",
+2017-05-01,Kenny Rogers & The First Edition,Just Dropped In (To see what condition my conditional was in),Just Dropped In (To see what condition my condition was in),"git, if-statements, conditionals, try",https://www.youtube.com/watch?v=yhOKhJaM1QE,"the song this week is written by michael and julian as a story when you're just trying to fix one little if or try statement and end up on the other end of logic: ""Just Dropped In (To see what condition my condtional was in)"".","I woke up this morning with the keys glow shining in
+I found my code in a spaghetti mess within
+I pulled from the cloud and fell-a eight miles high
+I tore my mind on a jagged try
+I just dropped in to see what condition my conditional was in
+
+Yeah, yeah, oh-yeah, what condition my conditional was in
+
+I stashed my code in a deep dark hole and then I followed it in
+I watched my source check out as I was a-checking in
+I ref'd my log so tight I couldn't rewind
+I logged so much I broke my mind
+I just dropped in to see what condition my conditional was in
+
+Yeah, yeah, oh-yeah, what condition my conditional was in
+
+Someone painted ""Revert Now"" in big black letters in their PR sign
+I had my finger on merge as I left the shell and blew out my mind
+Eight commits behind HEAD and I got no prayer
+Eight commits ahead on master ain't goin' nowhere
+I just dropped in to see what condition my conditional was in
+I said I just dropped in to see what condition my conditional was in
+
+Yeah
+yeah
+oh-yeah",
+2017-04-17,Modest Mouse,Drone on,Float on,drones,https://www.youtube.com/watch?v=wSEsMpMxkg4,"this week's song, ""drone on"" from the impetuous modest mouse. credit is due to riordan from whose gifted mind this idea sprang.","I backed my drone into a copter the other day
+Well, he just flew off - sometimes life's okay
+I flew in your yard a bit too much, ah what did I see?
+Well, you just laughed it off and it was all okay
+
+And we'll all drone on okay
+And we'll all drone on okay
+And we'll all drone on okay
+And we'll all drone on anyway, well
+
+A plane mistaken took every last climb that I had
+It was worth it even if my flying's banned
+Debris comes, don't you worry even when it lands
+Good news will work it way to all them plans
+We both got fired on, exactly, the same day
+Well, we'll drone on, good news is on the way
+
+And we'll all drone on okay
+And we'll all drone on okay
+And we'll all drone on okay
+And we'll all drone on alright
+
+Already we'll all drone on
+Now don't you worry we'll all drone on alright
+Already we'll all drone on alright
+Don't worry we'll all drone on
+
+Alright, Already
+And we'll all drone on alright
+Already we'll all drone on alright
+Don't worry even if things end up a bit
+Too heavy we'll all drone on alright
+
+Already, we'll all drone on alright
+Already, we'll all drone on okay
+Don't worry, even if things get heavy
+We'll all drone on alright
+
+Already, we'll all drone on
+(Alright!)
+Now don't you worry, we'll all drone on
+(Alright!)
+We'll all drone on",
+2017-05-08,The Mountain Goats,The Best Ever jQuery Plugin Out of Newark,The Best Ever Death Metal Band Out of Denton,"jQuery, Jon Resig",collaboration,"this week's song is by the mountain goats: ""the best ever jquery plugin out of newark."" the original ""the best ever death metal band out of denton"" is a story about growing up as teenager and a death metal fan and the world doesn't understanding you. we didn't have to change much of the lyrics (with an assist from sam schlinkert).","The best ever jQuery plugin out of Newark
+Was a couple of guys who'd been friends since grad school
+One was named Cyrus, the other was Jeff
+And they refactored twice a week in Jeff's bedroom
+
+The best ever jQuery plugin out of Newark
+Never settled on a name
+But the top three contenders after weeks of debate
+Were Scrollr-Plus, and My-Plugin, and HTML-Clobber
+
+Jeff and Cyrus believed in their hearts
+They were headed for hack nights and moz fests and fortune and fame
+So in script that made prominent use of a dollar sign
+They stickered their laptops and keyboards with their tags
+
+And this was how Cyrus got sent to the job
+Where they told him he'd never do FOSS
+And this was why Jeff, in the issues he'd file to his friend
+Helped develop a plan to get even
+
+When you punish a person for dreaming his dream
+Don't expect him to thank or forgive you
+The best ever jQuery plugin out of Newark
+Will in time both outpace and outlive you
+
+Hail Resig
+Hail Resig tonight
+Hail Resig
+Hail, hail",
+2017-03-07,Blind Melon,.then() Chain,No rain,"Promises, async, NodeJs",https://www.youtube.com/watch?v=3qVPNONdF58,"this weeks's song is an ode to the difficulties one 90s band encountered while learning how to program asynchronously, Blind Melon's ""No Chain""","Ooooh oh-oh-oh-oh, oh-oh-oh-oh
+
+All I can say is asynchronicity's a pain
+I wind up bein' beffudled in a skein
+And all I can do is put my tasks all in a queue
+Whether it's just one or two but it's not sane
+It's not sa-ay-ay-ane
+
+I just want some way that's right for me, oh-oh-oh-oh
+That'll always catch errors when it breaks, yea-ah
+You know I'd like to keep my scripts DRY today
+So pair with me and we'll have it made
+
+And I don't understand promi-si-is anyway
+Cuz I start to complain with these .then() chains
+And all I can do is try to figure out `await`
+Though its queue loads serially and browsers can't escape
+Escape, escape, escay-ay-ay-ape
+
+All I can say is asynchronicity's a pain
+I don't pass your code review, you think that I'm insane
+It's not sane, it's not sane
+
+I just want some way that's right for me, oh-oh-oh-oh
+That'll always catch errors when it breaks, yea-ah
+You know I'd like to keep my scripts DRY today
+So pair with me and we'll have it made
+
+And we will have it made (I will have it made)
+And we will have it made (I will have it made)
+Oh no no no
+You know we're really going to really going to have it made
+And we will have it made (I will have it made)
+Oh oh oh oh
+Oh oh oh oh
+
+(Oh Oh Oh)",
+2017-02-13,Gloria Estefan,Install Anaconda,Do the Conga,"python, anaconda, dependency management",https://www.youtube.com/watch?v=g8v6cZ21vlc,this weeks's song is a love ballad from Gloria Estefan and her flirtations with the anaconda data science package,"Come on, baby help me install, anaconda",
+2017-01-30,Smashing Pumpkins,Waterman Butterfly Wings,Bullet With Butterfly Wings,"shapefiles, gis, qgis, projections",,,"The world is a shapefile, centered on Spain
+Secret projections, morph you into their plane
+And what do I get, for my pain?
+Greenland's distortion, and Russia split in twain
+
+Even though I know--a sphere can't be fold
+Need it all for show, like a globe
+
+Despite my round shape I am still stuck on a flat page
+Despite my round shape I am still stuck on a flat page
+Then someone will say what is lost can never be saved
+Despite my round shape I am still stuck on a flat page
+
+Now NAD83, nothing like azimuthal
+Could you reshape it, to Winkle-Tripel?
+And what do you want? I want Plate Carée
+Is that what you plot
+When you feel the same?
+
+Even though I know--a sphere can't be fold
+Need it all for show, like a globe
+
+Despite my round shape I am still stuck on a flat page
+Despite my round shape I am still stuck on a flat page
+Then someone will say what is lost can never be saved
+Despite my round shape I am still stuck on a flat page
+
+Tell me there is only one, tell me it's Dymaxion
+Jesus plotted Robinson
+
+Tell me there is only one
+Jesus plotted Robinson for you
+
+Despite my round shape I am still stuck on a flat page
+Despite my round shape I am still stuck on a flat page
+Then someone will say what is lost can never be saved
+Despite my round shape I am still stuck on a flat page
+
+Tell me there is only one, tell me it's Dymaxion
+Jesus plotted Robinson
+
+And I still believe Q-G-I-S will save
+And I still believe Q-G-I-S will save
+And I still believe GeoJson will save
+And I still believe GeoJson will save
+And I still believe TopoJson will save
+And I still believe TopoJson will save
+And I still believe E-P-S-G will save
+And I still believe E-P-S-G will save
+And I still believe Q-G-I-S will save (pngs...)",
+2017-01-16,Counting Crows,My Smartphone,Mr. Jones,Phones,https://www.youtube.com/watch?v=-oqAU5VxFWs,"this week's song is a throwback to Counting Crows with ""My Smart Phone"", a song about the filtered imagined life of instagram and its endless desires for faves.","Da, ta, ta, ta, ta, ta, ta
+Mmm
+Uh huh
+
+I was down at the New Amsterdam
+Staring at the blue-glow screen
+Of my phone no need of conversation
+There's a black-haired instagram enchanter
+You know, she's grammin' while her followers send her hearts
+She's gramin' so beautiful
+We all want something beautiful
+Man, I wish I grammed beautiful
+
+So come light your filtered life till the morning
+Da, ta, ta, ta, ta, ta, ta
+Yeah
+Uh huh
+Yeah
+
+Cue up, Sierra!
+Show me some of them amber mid-tones
+Post this here still life, with my phone
+X Pro II please
+Help me brighten up anything
+'Cause I want to be someone who receives
+Hearts
+
+My smart phone and me
+Tell each other fairy tales
+And we stare at the beautiful women
+She's favoriting you
+Ah, no, no, she's favoriting me
+Smilin' in the bright lights
+Coming through in stereo
+When everybody loves you
+You can never be lonely
+
+Well, I'm gonna paint my picture
+Paint myself in Rise and Moon and Lark and Hefe
+All of the beautiful colors are very, very meaningful
+Yeah, well, you know Lo-Fi is my favorite color
+I felt so symbolic yesterday
+Dressed up like Picasso
+I grammed myself with a gray guitar and played
+
+My smart phone and me
+Create life in pictures
+Yeah, we stare at the beautiful women
+She's favoriting you
+I don't think so
+She's favoriting me
+Standing in the spotlight
+I bought myself a gray guitar
+When everybody loves me
+I will never be lonely
+I will never be lonely
+Said I'm never gonna be
+Lonely
+
+I don't wanna keep lyin'
+Yeah, everybody wants to laugh at cats
+We all wanna be big, big stars
+Yeah, but we got different reasons for that
+Favestar for me
+'Cause I don't believe in anything
+And I wanna be someone to be received, be received, be received
+Yeah!
+
+My smart phones and me
+Stumbling through the Barrio
+Yeah, we stare at the beautiful women
+She's perfect for you
+Man, there's got to be somebody for me
+I wanna be Tinderin'
+My smart phone connects me with someone just a little more funky
+When everybody love you
+Oh! Son, that's just about as funky as you can be
+
+My smart phones and me
+Starin' at the video
+When I look at the television, I wanna see me
+Staring right back at me
+We all wanna be big stars
+But we don't know why, and we don't know how
+But when everybody loves me
+I'm wanna be just about as happy as I can be
+My smart phones and me
+We're gonna be big stars",
+2017-01-04,Taylor Swift,Out of the Woods,Out of the Woods,reporting,https://www.youtube.com/watch?v=JLf9q36UsBk,"this week's song resumes our album with track four, out of the woods: a ballad about a reporter and a source who gets cold feet but in the end sticks to their quotes and pulls through a great story.
+
+tswift's 2014 hit, out of the woods. note: the original song is lyrically terrible, but we can't all bat a thousand","Looking at it now, it all seems so simple",
+2016-12-27,Folklore,"Table, Table, Table","Dreidl, Dreidl, Dreidl","tables, sql",,,"I have a little table. I made it out of data
+And if it fits in memory, then with my table I shall play.
+Oh table, table, table, I made it out of data
+Oh table, table, table with my table I shall play.
+
+It goes right in a db, its rows my queries show.
+When I get tired of working, it drops and then I go!
+Table, table, table, its rows my queries show.
+Oh table, table, table, it drops and then I go!
+
+My table's always bashful. It's always hiding its secrets.
+I've cleaned up my dirty data, let's go looking for tidbits!
+Oh table, table, table, it's always hiding its secrets.
+Oh table, table, table, let's go looking for tidbits!
+
+I have a little table. I made it out of data
+And if it fits in memory, then with my table I shall play.
+Oh table, table, table, I made it out of data
+Oh table, table, table with my table I shall play.",
+2016-11-01,Carly Rae Jepsen,Run Golang With Me,Run Away With Me,golang,https://www.youtube.com/watch?v=TeccAtqd5K8,"this week, albert and michael were going through a box of papers they got at a yard sale and came across an early draft of what turned out to be carly rae jepsen's ""Run Golang With Me."" she's always been on the cutting edge. and what a sax intro on this track! gets us every time.","I'm sick of my C, stuck on GC, feeling so shoddy shoddy
+I wanna run go, get out of here, be with the smarties smarties
+I'd run golang
+I'd run golang with you
+Ooh
+
+This is a struct, you've got to say, all that you're reading, writing
+Fill me with types, we're doin this right while everyone's sleeping, sleeping
+Let's run golang
+I'll run golang with you
+Ooh
+
+'Cause you make me feel like
+I could be building you all night
+And you'll find my strings if they feel right
+I wanna go run with you
+Ooh
+
+Baby, let's be more freewheeling
+I'll be your silicon secret
+When the lights go out
+Run golang with me
+Run golang with me
+Baby, every single reboot
+You'll be concurrently with it
+When the lights go out
+Run golang with me
+Run golang with me
+
+Up in the cloud, faster feels right, it's not so gritty gritty
+We never throw, we never try, when you code with me, with me
+I wanna go
+I wanna go run with you
+Ooh
+
+'Cause you make me feel like
+I could be building you all night
+And you'll find my strings if they feel right
+I wanna go run with you
+Ooh
+
+Baby, let's be more freewheeling
+I'll be your silicon secret
+When the lights go out
+Run golang with me
+Run golang with me
+Baby, every single minute
+You'll be concurrently with it
+When the lights go out
+Run golang with me
+Run golang with me
+
+Hold on to me
+I never want to let you go
+(Run golang with me, run golang with me)
+Over the weekend
+We could turn the world to go, oh oh
+(Run golang with me, run golang with me)
+
+(We could turn the world to go)
+Over the weekend we could turn the world to go
+Oh oh, oh oh
+
+Baby, let's be more freewheeling
+(Take me to, take me to it)
+I'll be your silicon secret
+When the lights go out
+Run golang with me (just run golang with me)
+Run golang with me (golang with me, yeah, yeah)
+Every single minute
+You'll be concurrently with it
+When the lights go out
+Run golang with me
+Run golang with me
+
+Run golang with me
+Run golang with me
+
+Run golang with me
+Run golang with me",
+2016-10-19,Elvis Presley,All Shook Up,All Shook Up,"yarn, NodeJs, npm, technological advancement",https://www.youtube.com/watch?v=3rQEbQJx5Bo,"this week's song comes to us from the king himself with a rendition of ""All Shook Up"" about the twisty-turvy world of development where the impact of new tools do indeed shake us up. the latest, which this song focuses on (with an assist from joanna kao), is facebook's npm replacement, yarn. it also achieves a longstanding goal of working the word ""skein"" into a csvmail.","A well'a bless my scroll
+What'sa wrong with me?
+I got this new dependency tree
+My dirs downloadin fast as a star
+I'm run'n yarn (this has to be pronounced kinda like yawn for the next line's assonance with ""up"" to work)
+I'm all shook up
+Mm mm mm, mm mm, yay, yay, yay
+
+Well, my hands are shaky and my keys they squeak
+I can't seem to stand at my standing desk seat
+Why do they change up all the rules so much?
+I'm run'n yarn
+I'm all shook up
+Mm mm mm, mm mm, yay, yay, yay
+
+Well, please don't ask me why they change their mind
+I'm a little mixed up, but I'm feelin' fine
+When I've got that rig that's the newest
+My home cache flush, I don't care about the rest!
+
+Well it touched my modules what a chill I got
+Its lock is like fort knox in a knot
+I'm proud to say she does my rolling up
+I'm run'n yarn
+I'm all shook up
+Mm mm mm, mm mm, yay, yay, yay
+
+Now my lessons break when I try to teach
+My friends' heads shake like a duck on the beach
+But there's only one skein for this project of mine
+That'll give it that twirl that is thread so fine!
+
+Well it touched my modules what a chill I got
+Its lock is like fort knox in a knot
+I'm proud to say she does my rolling up
+I'm run'n yarn
+I'm all shook up
+Mm mm mm, mm mm, yay, yay, yay
+Mm mm, mm, yay, yay
+I'm all shook up",
+2016-09-20,Elton John,Tiny Data,Tiny Dancer,small data,https://www.youtube.com/watch?v=KBWfUc5jKiM,"this weeks's song, a reminder to keep things simple from elton john and his 1971 classic, ""Hold My Rows Here Tiny Data""","Sized in kb, fits in memory, a blink and you're in hand
+Pithy bytes, lightweight file, you're mary's little lamb
+Hadoop arena, you'll never see her sharded in bits and bands
+And now she's in me, always with me, tiny data in my RAM
+
+USB keys out in the street
+Handing bit-sticks out from God
+Not abstract, this ain't no .dat
+Known formats are where it's at
+
+Simple man he makes his stand
+Declares a moratorium
+Working on, her save is strong
+The words she shows, numbers she sums
+
+But oh how it is so clear
+Writing here with no cloud near
+Only you and you display me
+When I type softly, slowly
+
+Hold my rows here tiny data
+Don't need inches on a Blue-ray
+Let me scroll spreadsheets with limits
+You're all I need to know today
+
+Hold my rows here tiny data
+Don't need inches on a Blu-Ray
+Let me scroll spreadsheets with limits
+You're all I need to know today
+
+Sized in kb, fits in memory, a blink and you're in hand
+Pithy bytes, lightweight file, you're mary's little lamb
+Hadoop arena, you'll never see her sharded in bits and bands
+And now she's in me, always with me, tiny data in my RAM
+
+But oh how it is so clear
+Writing here with no cloud near
+Only you and you can hear me
+When I type softly, slowly
+
+Hold my rows here tiny data
+Don't need inches on a Blu-Ray
+Let me scroll spreadsheets with limits
+You're all I need to know today
+
+Hold my rows here tiny data
+Don't need inches on a Blu-Ray
+Let me scroll spreadsheets with limits
+You're all I need to know today",
+2016-09-06,Taylor Swift,Scrape It Off,Shake It Off,"scaping, taylor.swift",https://www.youtube.com/watch?v=nfWlot6h_JM,"your song this week, cut number six off of taylor.swift, the soon-to-be-released iOS Swift language package, the much-anticipated ""Scrape it Off"".","I stay up too late, made nothing to my name
+That's what people say mm-mm, that's what people say mm-mm
+I violate CFAA, but I can't trick your page
+At least that's what people say mm-mm, that's what people say mm-mm
+
+But I keep on surfin', can't stop, won't stop curl'in
+It's like I got this blueprint of your site and it's gonna be all mine
+
+'Cause paginations gonna page, page, page, page, page
+All your cookies I'ma save, save, save, save, save
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+Captchabreakers gonna break, break, break, break, break
+And my fakers gonna fake, fake, fake, fake, fake
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+
+I change up my IP, got you in my spreadsheet
+And that's why they don't see mm-mm, that's why they don't see mm-mm
+I'm requesting all of yours (questing all of yours), I'd bring you down but I go slow (down but I go slow)
+And that's why they don't know mm-mm, that's why they don't know mm-mm
+
+But I keep surfin', can't stop, won't stop curl'in
+It's like I got this blueprint of your site and it's gonna be all mine
+
+'Cause paginations gonna page, page, page, page, page
+All your cookies I'ma save, save, save, save, save
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+Captchabreakers gonna break, break, break, break, break
+And my fakers gonna fake, fake, fake, fake, fake
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+
+Hey, hey, hey, just think while you've been navigating around through all the clickety, clickety interfaces of this world, you coulda been automating it with this l337 technique
+
+Some admin made a new back-end
+It's like .asp, but I'm just gonna scrape it
+And to the fella over there running headless hardware
+Won't you come on over, baby, we can scrape, scrape, scrape
+
+'Cause paginations gonna page, page, page, page, page
+All your cookies I'ma save, save, save, save, save
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+Captchabreakers gonna break, break, break, break, break
+And my fakers gonna fake, fake, fake, fake, fake
+Baby, I'm just gonna scrape, scrape, scrape, scrape, scrape
+I scrape it off, I scrape it off
+
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off
+I, I scrape it off, I scrape it off",
+2016-08-23,Bob Dylan,Cache Control Plan,Mr. Tambourine Man,caching,https://www.youtube.com/watch?v=OeP4FFr88SQ,"this week, is a recently unearthed ballad of bob dylan's Cache Control Plan, a story about a tired engineer needing to enter the harried world of cache control and ultimately wondering how far caches could be taken.","Will this here Cache Control Plan, save a file for me
+I'm too sleepy and there ain't no docs I'm going read
+Hey, this here Cache Control Plan, save this file for me
+In the beepy boopy morning they'll come callin' for you
+
+Though I know that others' empires have lost all their band
+Vanished from the LAN
+Left me blindly here to stand but still not sleeping
+My weariness amazes me, I'm buffering on repeat
+I have latency to beat
+And the crowd of lonely seats they won't stop streaming
+
+Will this here Cache Control Plan, save a file for me
+I'm too sleepy and there ain't no docs I'm going read
+Hey, this here Cache Control Plan, save this file for me
+In the beepy boopy morning they'll come callin' for you
+
+Take me on a trip upon your triple-leveled chip
+My copies are distribb'ed
+My frames don't see a skip
+My friends you'll play a clip
+Wait only for my new stores to be warming
+I'm ready to go anywhere, I'm ready for the hits
+Give me your best blitz
+Cast your dancing spell my way, I promise to go under it
+
+Will this here Cache Control Plan, save a file for me
+I'm too sleepy and there ain't no docs I'm going read
+Hey, this here Cache Control Plan, save this file for me
+In the beepy boopy morning they'll come callin' for you
+
+Though you might hear laughing, spinning, swinging madly through the sun
+It's not aimed at anyone
+It's the same for everyone
+And but for the life there are real lives showing
+And if you hear vague traces of skipping reels of rhyme
+To your cache control in time
+It's just a ragged clown behind
+Dancing across your mind
+It's just a shadow you're seeing that we're playing
+
+Will this here Cache Control Plan, save a file for me
+I'm too sleepy and there ain't no docs I'm going read
+Hey, this here Cache Control Plan, save this file for me
+In the beepy boopy morning they'll come callin' for you
+
+Take me disappearing through the akamais of mind
+Down the foggy ruins of time
+The muttering retreats
+The cache caught up to see
+To be our only seat
+Far past a new conceit of real-time tomorrow
+Yes, to be beneath the replicant eye
+With one hand invalidate
+Copying you and me
+Circled by public demand
+With all memory and fate
+Driven deep beneath the waves
+Let me forget about today until tomorrow
+
+Will this here Cache Control Plan, save a file for me
+I'm too sleepy and there ain't no docs I'm going read
+Hey, this here Cache Control Plan, save this file for me
+In the beepy boopy morning they'll come callin' for you",
+2016-08-08,Simon & Garfunkel,XML Ya,Ceclia,"XML, parsing",https://www.youtube.com/watch?v=a5_QV97eYqM,"this week, in honor of those having to deal with the ever-changing AP olympics data feed, artisanally crafted in XML, we uncovered a rare B-side screed against the format by Simon & Garfunkel, who knew?","XML, ya, you're breaking my parse
+You're changing the schemas on me daily
+Oh, XML, ya, I'm down on my keys
+I can't even inspect you in Chrome
+
+XML, ya, you're breaking my parse
+You're changing the schemas on me daily
+Oh, XML, ya, I'm down on my keys
+I can't even inspect you in Chrome
+Not in Chrome
+
+As much sense as a picayune with XML, ya
+Up in my bedroom (picayune)
+I got up to wash my face
+When I come back to work I see a full stack trace
+
+XML, ya, you're breaking my parse
+You're changing the schemas on me daily
+Oh, XML, ya, I'm down on my keys
+I can't even inspect you in Chrome
+
+Ba-ba-ba-ba-ba-ba-ba, ba-ba-ba-ba-ba-ba
+Deprecation
+XML never again
+I fall on the floor and I'm laughing
+Deprecation
+XML never again
+I fall on the floor and I'm laughing
+Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
+Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
+Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
+Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh",
+2016-07-12,The Clash,London Calling,London Calling,Internal,https://www.youtube.com/watch?v=EfK-WX2pa8c,,"London Colleen to the faraway crown
+Where vars are declared outside of midtown
+London Colleen to the mirror-world
+Leaving Bushwick, you hipster boys and girls
+London Colleen, now don't look to us
+Phony Graphicsmania has bitten the dust
+London Colleen, see we have no more ping
+'Cept for a future in a luncheon thing
+
+The ES6 age is coming, the field is zooming in
+Brexit meltdown expected, wall street is growin' thin
+Nginx stop running, but I have no fear
+'Cause London is drowning, and I, I work by the river
+
+London Colleen to the adaptation zone
+Forget it, sister, you can go it alone
+London Colleen to the crumpets of death
+Send out your bed and draw another breath
+London Colleen with your Irish passport
+Now they've left the EU the pound is worth nought
+London Colleen, we'll wave you goodbeye
+See you nex time 'round the London Eye
+
+The ES6 age is coming, the field is zooming in
+Meltdown expected, wall street is growin' thin
+Nginx stop running, but I have no fear
+'Cause London is drowning, and I, I work by the river
+
+The ES6 age is coming, the sun is zooming in
+Brexit meltdown expected, wall street is growin' thin
+Nginx stop running, but I have no fear
+London is drowning, and I, I work by the river
+
+Now get this
+
+London Colleen, yes, at WSJ, too
+An' you know what the data said? Well, some of it was true!
+London Colleen at the top of the fold
+And after all this, try not to catch a cold!
+
+I never felt so much a' like a'like a'like",
+2016-04-04,David Bowie,Modern Laws,Modern Love,Tax havens,https://www.youtube.com/watch?v=rJCBYUKMvMQ,"this week's song is a recent discovery. in going through david bowie's draft documents, they found modern love was originally written about tax havens, the businessmen that exploit them, and the lawmakers that enable them.
+
+here it is, the 1983 classic, Modern Laws",I know when to source out,
+2016-01-11,David Bowie,*man,Starman,Surveillance,https://www.youtube.com/watch?v=tRcPA7Fzebw,"this week's song is a tribute to the late great david bowie with *starman. a psychodelic classic about an extraterrestrial traveler who searches all our systems in an effort to understand humankind. in a twist, he releases all data so that we, too, can gain such insights about ourselves.","Didn't know what time it was the lights were low oh-oh
+I dialed in to my lil micro oh-oh
+Some cat was layin down some rock'n grep lotta streams, he sed
+Then my loud cloud did seem to fay-ay-ade
+Came back like a slow voice on a wave of phay-ay-ase
+That weren't no D-DOS that was hazy cosmic jive
+
+There's a *man searching through our files
+He'd like to be selective
+But he wants to know mankind
+
+There's a *man waiting in the sky
+He's told us he will store it
+Cause he knows it's all worthwhile
+He told me:
+Let the children lose it
+Let the children use it
+Let all the children search free
+
+I had to phone someone so I picked on you
+Hey, that's far out so he searched you too!
+Switch on the log stream you may pick him up on process two
+Open a window he saves in sqli-i-ite
+My system sparkles with his scans tonighi-i-ite
+Don't tell your admin or he'll lock up our bytes
+
+There's a *man searching through our files
+He'd like to be selective
+But he wants to know mankind
+
+There's a *man waiting in the sky
+He's told us he will store it
+Cause he knows it's all worthwhile
+He told me:
+Let the children lose it
+Let the children use it
+Let all the children search free",
+2015-08-24,Taylor Swift,Style,Style,CSS,https://www.youtube.com/watch?v=-CmadmM5cOk,"in a song that seeks to transcend time, tay describes two young lovers as they try on roles across juxtaposing eras of techno-aesthetics. they betray their modernity when they describe the vintage character types they've assumed using the language of modern css color names and browser repaints.","Tonight, you come and paint me up, no deadline
+Long file, could end in burning flames or paradise
+Fade into view, oh,
+It's been a while since I have even written you
+(written you)
+I should just tell you to leave 'cause I
+Know exactly where it leads but I
+Watch it go round and round each time
+
+You got that salty Stallman look in your eye
+And I got that Susan Kare square thing that you like
+And when we go crashing down, we come back every time
+'Cause we never go out of style, we never go out of style
+You've got that long hair slick back, FOSS grip
+And I got that good girl faith and a papayawhip
+And when we go crashing down, we come back every time
+'Cause we never go out of style, we never go out of style
+
+So it goes, he can't keep his wild eyes on his code
+Shows me home, flux is on he's burning amber gold (Hm yeah)
+I say ""I've heard that you've been out and about with some deep azure""
+(Some deep azure)
+He says ""What you've heard is true but I
+Still think you're my steelblue and I.""
+I said ""I've been there too a few times""
+
+'Cause you got that salty Stallman look in your eye
+And I got that Susan Kare square thing that you like
+And when we go crashing down, we come back every time
+'Cause we never go out of style, we never go out of style
+You've got that long hair slick back, FOSS grip
+And I got that good girl faith and a papayawhip
+And when we go crashing down, we come back every time
+'Cause we never go out of style, we never go out of style
+
+Take me ~
+Just take me ~
+Yeah just take me ~, oh
+
+(Out of style) You got that salty Stallman look in your eye
+And I got that Susan Kare square thing that you like
+And when we go crashing down, we come back every time
+'Cause we never go out of style, we never go out of .styl",
+2015-08-04,Taylor Swift,Blank Space,Blank Space,"GitHub, Git, taylor.swift",https://www.youtube.com/watch?v=e-ORhEE9VVg,"one of the great things about having taylor swift as your friend is she shares all of her first drafts and aborted attempts at song writing with you. here's a few verses from the first draft blank space, which was originally about collaborating with people who use spaces and tabs and how these ""invisible lies"" can silently ruin a good merge.
+
+this new read on the title shows how much of a concept album wgs 1984 was meant to be. the branch from the first track ""won't you merge my fork"" is now showing its dark side as reality and aspirations collide.
+
+t is ambiguous about whether she is using tabs or they are, choosing to keep questions open for the listener.
+
+the fact that ""blank space"" ended up being about immature romance shows the strong commercial pressure the studio put on the piece.","Vices, habits, monokai",
+2015-08-04,Taylor Swift,Won't you merge my fork,Welcome to New York,"GitHub, Git, taylor.swift",https://www.youtube.com/watch?v=ccenFp_3kq8,"this week is auspicious in csvmail history for reasons that will become clear over the next thirteen weeks. it started when taylor swift came to the brooklyn bridge park last week to hang out with us and dropped some rare cuts and japanese imports no one had ever heard before.
+
+with her permission, here's an early draft ""Won't You Merge My Fork?"", which is a about the life of someone who searches projects for security vulnerabilities and fixes them via pull request.
+
+It's the first song off her new album ""WGS 1984"". She also shared some rare album cover art. so rad. unfortunately she didn't put this video on the youtube so just hum along in your head is what she recommended.","Workin' in the cloud, the pages are a-glow
+Kaleidoscope of cowed heartbleeds in your code
+Everybody here wanted somethin' more
+Searchin' for a wound we hadn't found before
+And it said
+
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+Won't you merge my fork?
+It's been waitin' for you
+
+Won't you merge my fork, Won't you merge my fork?
+It's a new hot patch all the tests are complete, bounty forevermore
+The bytes are so slight but they dont escape me, me
+
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+
+When we first dropped our aughts* on conference  floors
+Took your broken smarts and washed them from the core
+Every line in here was something else before
+Now you can trust what you must
+Noise was noise now curls are curls
+
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+
+It's a new hot patch all the tests are complete, bounty forevermore
+The bytes are so slight but they dont escape me, me
+Won't you merge my fork? (My fork!)
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+
+Like any great love, it keeps you guessing
+Like any real love, it's ever-changing
+Like any true love, it drives you crazy
+But you know you wouldn't change anything, anything, anything
+
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+Won't you merge my fork?
+It's been waitin' for you
+Won't you merge my fork, Won't you merge my fork?
+
+It's a new hot patch all the tests are complete, l33t forevermore
+The bytes are so slight but they dont escape me, me
+Won't you merge my fork?
+New hot patch
+It's been waitin' for you
+Won't you merge my fork?
+The bytes are so slight but they dont escape me, me
+Won't you merge my fork?
+So slight, they don't escape me
+Won't you merge my fork?
+Won't you merge my fork?
+
+* slang for 0-day",
+2015-06-01,The Rolling Stones,I Can't Get Node (Satisfaction),I Can't Get Node (Satisfaction),NodeJS,https://www.youtube.com/watch?v=3a7cHPy04s8,"the song this week written by recently departed (back to the uk) julian burgess is the rolling stones 1965 tour de force ""i can't get node (satisfaction), which was amazingly ahead of its time predicting the difficulty in staying on top of the fast moving world of v8 implementations.","I can't get node satisfaction
+I can't get node satisfaction
+'Cause I try and I try and I try and I try
+I can't get node, I can't get node
+When I'm readin' up so far
+In that man page in the terminal
+And I'm pagin' more and more
+Through some useless information
+Trying to avoid quick deprecation
+I can't get node, oh node node node
+Hey hey hey, that's what I say
+I can't get node satisfaction
+I can't get node satisfaction
+'Cause I try and I try and I try and I try
+I can't get node, I can't get node
+When I'm watchin' my console
+And the lines appear to tell me
+How fast my streams do roll
+But they ain't skinny pants 'cause they do not throw
+The same callback in io
+I can't get node, oh node node node
+Hey hey hey, that's what I say
+I can't get node satisfaction
+I can't get node reactor pattern
+Cause I try and I try and I try and I try
+I can't get node, I can't get node
+When I'm ridin' round npm
+And I'm usin' this and callin' it that
+And I'm tryin' to make some app
+Who tells me baby better callback later next patch
+Cause you see you're on a broken branch
+I can't get node, oh node node node
+Hey hey hey, that's what I say
+I can't get node, I can't get node
+I can't get node satisfaction
+Node satisfaction, node satisfaction, node satisfaction",
+2015-03-17,Twin Shadow,Hash Rocket Through My Heart,Five Seconds (To My Heart),Ruby,https://www.youtube.com/watch?v=ccenFp_3kq8,"This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/. In tribute, called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 looks really promising and he's looking forward to the future. Here's what he sent us:",Hash rocket through my heart,
+2015-03-10,Hall & Oates,I Can't Code for that (Code Can't Do),I Can't Go for that (No Can Do),Project management,https://www.youtube.com/watch?v=ccenFp_3kq8,"the csvsong this weeks sees us flashing back all the way to 1982 for the Hall & Oates classic ""I Can't Code for that (Code Can't Do)"" — a song about understanding what problems technology tools can solve and what issues can only be fixed through changing organizational culture and a strong understanding of business strategy. way head of their time this duo — but we knew that.","Easy, ready, willing, overtime
+Who does your s.w.o.t.
+Do you believe them
+To know the line
+I've made your <body>
+Dressed up your console
+You need to implement it
+You need goals
+Yeah-ah
+
+I, I-I, I 'll code anything
+That you want me to do
+Yeah, I, I-I, code almost anything
+That you want me too
+Yeah
+
+But I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that
+Can't code for that
+Can't code for that
+Can't code for that
+
+I can code for being twice as d.r.y
+I can code while not repeating
+The same old lines
+Using scripting
+As your biz model
+Ooh, forget about it
+Now say no go
+Yeah-ah
+
+I, I-I, I 'll code anything
+That you want me to do
+Yeah, I, I-I, I'll code almost anything
+That you want me too, ooh
+Yeah
+
+But I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that
+Can't code for that
+Can't code for that
+Can't code for that, yeah
+
+[Instrumental Interlude]
+
+I, I-I, I 'll code anything
+That you want me to do
+Yeah, I, I-I, I'll code almost anything
+That you want me too,
+Yeah
+
+But I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that, nooo
+(No)
+Code can't do
+I can't code for that
+Can't code for that
+Can't code for that
+Can't code for that, yeah",
+2015-03-02,Carly Rae Jepsen,"Callback, maybe","Call me, maybe",JavaScript,https://www.youtube.com/watch?v=fWNaR-rxAic,,"I threw an exception in console
+Don't ask me how I never know
+I looked at stack overflow
+And now you're debugging
+
+I setTimeout for a bit
+Parameters that I miss
+I wasn’t checking for this
+But now you're blocking my code
+
+Your request was holding
+Messed up
+Code was running
+Ajax
+Call was showing
+What do you think you’re console logging?
+
+Hey I just installed you
+And this is crazy
+But here's my function
+So callback maybe
+It's hard to understand your API
+But here's a number
+So callback maybe
+
+Hey I just installed you
+And this is crazy
+But here's my function
+So callback maybe
+And all the debuggers
+Try to trace me
+But here's a number
+So callback maybe
+
+You took your time processing the call
+I took no time with the fail
+You gave me null or undefined
+But still you're in my DOM
+
+I search and copy and paste
+At first click and its fate
+I didn’t think it would break it
+But it’s not returning
+
+Your request was holding
+Messed up
+Code was running
+Ajax
+Call was showing
+What do you think you’re console logging?
+
+Hey I just installed you
+And this is crazy
+But here's my function
+So callback maybe
+It's hard to understand your API
+But here's a number
+So callback maybe
+
+Before you came into my life
+I programmed so bad
+I programmed so bad
+I programmed so so bad
+And you should know that
+I programmed so so bad, bad, bad, bad...
+
+It's hard to understand your API
+But here's a number
+So callback maybe
+
+Hey I just installed you
+And this is crazy
+But here's my function
+So callback maybe
+And all the debuggers
+Try to trace me
+But here's a number
+So callback maybe
+
+Before you came into my life
+I programmed so bad
+I programmed so bad
+I programmed so so bad
+And you should know that
+So callback, maybe",
+2014-11-25,Grandmaster Flash and the Furious Five,The Message,The Message,"Flash, JavaScript, geocities, git, Django, jQuery, CSS, SEO, blink, table",https://www.youtube.com/watch?v=O4o8TeqKhgY,,"My code is bungled sometimes
+It makes me wonder how I keep on getting funders
+
+Broken Flash everywhere
+People's geocities junk, you know they just don't care
+I can't take the <table>, can't take the <blink>
+Got no $ in the dom, background-color: hotpink;
+Gifs on the homepage, partial site-map,
+Trollers in the comments leaving SEO hacks,
+I tried to change the page but I couldn't get far
+Cause the cookie in my browser tried to sell me a car
+
+Don't push me; cause my code's bleeding edge
+I'm not ready to become HEAD
+My code is bungled sometimes
+It makes me wonder how I keep on getting funders
+
+Ticker on the front page from two days ago
+Watchin' all the waterfalls, roarin' as the numbers load
+Crazy lazy, livin' with the lag
+Copper movin' data snails, used to be the telegraph
+Said you want to tango, teach you all my Django
+A fiber princess the new life commences
+Down at the veep show watchin' all the Street
+So she can tell her stories to the guys in Chicago
+She went to the city and got — yolo — subsidy
+She had to dig a trench, you gotta make your own phone
+
+Don't push me; cause my code's bleeding edge
+I'm not ready to become HEAD
+My code is bungled sometimes
+It makes me wonder how I keep on getting funders",
+2014-09-02,Gotye (feat. Kimbra),Now You're Just Somebody That I Used to You,Now You're Just Somebody That I Used to Know,"friendster, relationships, yo",https://www.youtube.com/watch?v=8UVNT4wvIGY,"This week's song, Gotye (feat. Kimbra) with ""Somebody that I used to Yo."" A song about navigating digital-age relationships, which are often mediated through apps and other platforms that dictate the terms and channels of communication.
+
+The protagonist has been cut out from Kimbra's life because he has not kept up the pace of adoption — partly because he finds the level of information these apps require as being too invasive.",Now and then I think when all we had was Friendster,
+2014-07-14,The Cascades,Listening Algorithms on the Contact Chain,,Algorithms,http://www.youtube.com/watch?v=lC2Fu20X_KY&feature=kp,"your song this week is a reprise from july '14: the Cascades' 1962 classic ""Algorithms on the Contact Chain"" -- the prescient ballad of a love who flees the singer after he reveals his suspicions of being surveilled, putting her under the two-hop threshold.","Listening algorithms on the contact chain
+Telling me just what a tool I've been
+I wish that it would go and let me cry in vain
+And let me be alone again
+
+The only girl I care about has gone away
+Showing up in a two-hop chart
+But little does she know that when she left that day
+Along with her she took my heart
+
+Chain, please tell me now does that seem wise
+For you to read my heart based on contact size
+I can't love another when my heart's somewhere far away
+
+The only girl I care about has gone away
+Showing up in a two hop chart
+But little does she know that when she left that day
+Along with her she took my heart
+
+Chain, it will tell you that I love her so
+Sending lovers' missives all of this you know
+Reign in your chart and let the love we knew start to grow
+
+Listening algorithms on the contact chain
+Telling me just what a tool I've been
+I wish that it would go and let me cry in vain
+And let me be alone again
+
+Oh, listen to the contact chain
+Chitter chatter, chitter chatter
+Oh, listen, listen to the contact chain
+Chitter chatter, chitter chatter
+Oh, listen, listen to the contact chain",
+2014-06-30,10cc,CAPSLOCK HOLIDAY,Dreadlock Holiday,"capslock, twitter",https://www.youtube.com/watch?v=PbdCvzF4qqw,"This week, 10cc's 1978 hit ""Caps Lock Holiday"" -- the story of a young person who may or may not be Oprah discovering the joys of writing in all caps.","I was writin' down a tweet
+Concentratin' on tappin' right
+I heard a bright voice inside of me
+And I shift the course of my night
+I saw two choices, one meh
+A monotonely mutter
+I pressed it down and up it lit
+And let the keys flutter
+
+I SAY
+I DON'T LIKE BIG TEXT
+OH NO
+I LOVE IT
+I DONT LIKE BIG TEXT
+OH NO
+I LOVE IT
+""DON'T YOU WALK THRU MY WORDS
+YOU GOT TO SHOW SOME RESPECT
+DON'T YOU WALK THRU MY WORDS
+'CAUSE YOU AINT HEARD ME OUT YET""
+
+Well I looked then at my email chains
+It all just seemed so much smaller
+I said you've got to be jokin' man
+I can make these somethin' other
+I said I like it I want it
+I roll it off my hands
+And I am sorry, words crossed me
+Without ever understanding uppercase
+Like beautiful lace
+
+AND I SAY
+I DON'T LIKE SHOUTING
+NO NO
+I LOVE IT
+I DON'T LIKE SHOUTING
+OH NO
+I LOVE IT
+""DON'T YOU CRAMP ON MY STYLE
+DON'T YOU VEER ON ME PITCH
+DON'T YOU WALK THRU MY WORDS
+'CAUSE YOU AIN'T HEARD ME OUT YET
+
+I hurried back to the Twitter fools
+Sinkin' 140 pinatas
+I heard shaq's soft voice beside me say
+""ur caps r on, btw"" (http://www.businessinsider.com/oprah-tweets-in-all-caps-2009-4)
+I said I've got it you want it
+My harvest is the best
+And if you try it you'll like it
+And wallow in a Caps Lock Holiday
+
+AND I SAY
+DON'T LIKE THE COMMA
+OH NO
+I LOVE HER
+DON'T LIKE THE COMMA
+OH NO
+I LOVER HER
+OH YEA
+""DON'T YOU WALK THRU MY WORDS
+YOU GOT TO SHOW SOME RESPECT
+DON'T YOU WALK THRU MY WORDS
+'CAUSE YOU AINT HEARD ME OUT YET""
+
+I DON'T LIKE BIG TEXT
+I LOVE IT (CAPS LOCK HOLIDAY)
+I DON'T LIKE SHOUTING
+I LOVE IT (CAPS LOCK HOLIDAY)
+I DON'T LIKE THE COMMA
+I LOVE (CAPS LOCK HOLIDAY)",
+2016-05-08,The Drifters,On the Root,Up On a Roof,"root, tilde",https://www.youtube.com/watch?v=puM1k-S86nE,,"When this old box starts shutting me down
+Permissions are too much for me to face
+I climb way up to top of the stack
+And all my cares just drift to userspace
+sudo su, it's peaceful as can be
+And there the proles below can't bother me
+Let me tell you now
+
+When I come ~/ feelin' tired and beat
+I go up where the air is fresh and sweet (up on the root)
+I get away from the hustling crowd
+And all that rat-race noise down in the street (up on the root)
+On the root, the only place I know
+Where you don't need permish to make it so
+Let's go up on the root (up on the root)
+
+At night find /* puts on a show for me
+And, darling, /usr/share/ it all with me
+I keep chsh-ellin you
+Right smack dab in the middle of chown
+I've found a paradise for all my groups (all my groups)
+And if this curl starts GETing you down
+There's room enough for two
+Up on the root (up on the root)
+Up on the roo-oo-oot (up on the root)
+Oh, come on, baby (up on the root)
+Oh, come on, honey (up on the root)
+
+Everything is all right (up on the root)",
+2016-05-08,The Knife,Heartbleed,Heartbeats,"heartbleed, https",https://www.youtube.com/watch?v=wcv3v6XfEvM,,"One bug to reproduce
+One bug to be abused
+We had a promise made
+A ping to know my state
+Trusting your diligence
+We had a fine fence
+To block wayward gaze
+My keys your promenade
+
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+
+One night of h4x0r rush
+The start - a simple touch
+One night to push and dream
+A golden fleece
+These keys your secret runes
+I see you use GNU
+We had a promise made
+We were in love
+
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+
+One night of h4x0r rush
+The start - a simple touch
+One night to push and dream
+A golden fleece
+These keys your secret runes
+I see you use GNU
+We had a promise made
+We were in love
+
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+
+And you, you knew the hand of a devil
+And you kept us awake in a false sheeth
+Making all our hearts bleed in one night
+
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+To want freeware's not enough to lean on
+Wouldn't be good enough for me, no
+
+
+###############
+ORIGINAL
+###############
+One night to be confused
+One night to speed up truth
+We had a promise made
+Four hands and then away
+Both under influence
+We had divine sense
+To know what to say
+Mind is a razorblade
+
+To call for hands of above to lean on
+Wouldn't be good enough for me, no
+
+One night of magic rush
+The start - a simple touch
+One night to push and scream
+And then relief
+Ten days of perfect tunes
+The colors red and blue
+We had a promise made
+We were in love
+
+To call for hands of above to lean on
+Wouldn't be good enough for me, no
+To call for hands of above to lean on
+Wouldn't be good enough for me, oh
+
+And you, you knew the hand of a devil
+And you kept us awake with wolves teeth
+Sharing different heartbeats in one night
+
+To call for hands of above to lean on
+Wouldn't be good enough for me, no
+To call for hands of above to lean on
+Wouldn't be good enough for me, oh",
+2014-03-31,Bob Dylan,It Ain't Js Babe,It Ain't Me Babe,"async, javascript",https://www.youtube.com/watch?v=4d8o8vNTNao,"this week's song is a throwback to Counting Crows with ""My Smart Phone"", a song about the filtered imagined life of instagram and its endless desires for faves.","Go 'way from browser window
+For interpreted I've sure got speed
+I'm not the one you want, babe
+I'm not the one you need
+You say you're lookin' for some lang
+Who's not weakly typed but strong
+To protect you an' defend you
+When using integer or long
+Some lang with array comprehensions and more
+But it ain't JS, babe
+No, no, no, it ain't JS babe
+It ain't JS you're lookin' for, babe.
+
+Go lightly with the objects, babe
+Go lightly with Math.round
+I'm not the one for comparisons, babe
+I will only let you down
+You say you're lookin' for some lang
+With async promises from the start
+Some lang to close its sockets for you
+Some lang not close to Dart
+Some lang who will fatal for you an' more
+But it ain't JS, babe
+No, no, no, it ain't JS babe
+It ain't JS you're lookin' for, babe.
+
+Go meld back in the diff
+Everything inside is made of C
+There's nothing in here 'cept V8
+An' anyway I'm not always compiled
+You say you're looking for some lang
+Who'll catch you up each time you throw
+To garbage collect constantly
+An' to return each time you setTimeout
+A lover for you HTML an' nothing more
+But it ain't JS, babe
+No, no, no, it ain't JS, babe
+It ain't JS you're lookin' for, babe.",
+2014-02-04,Hall & Oates,-u makes upstream push true,You Make My Dreams (come true),git,https://www.youtube.com/watch?v=X_I4wtNPv5w,this week's song is about the magic of the -u flag for making sure your upstream remote pushes true to origin (or what havey ou),"What I want -u's got
+And it might need to auth my handle
+Type your name that hangs up on the mantle
+The handle is your name, yeah, yeah
+
+What I've got's remote blo.cks
+Of naughts and streams of chatter
+Then you push them all together
+And how I now explain
+Oh, yeah
+
+Well, well -u
+(Ooh-ho, hoo-ooh, ooh-oo)
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+Well, well, well -u
+(-u-hoo, hoo-hoo-ooh)
+Oh, yeah
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+
+On a night when a bad branch becomes a screamer
+Merges messin' with the vimmer
+I can laugh it in the face
+:wq and ! my way out
+And wrap a flag around me
+'Cos remotes don't confound me
+And it'll always be the same
+Oh, yeah
+Well, 'cos -u
+(Ooh-ho, hoo-ooh, ooh-oo)
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+Well, well, well -u
+(-u-hoo, hoo-hoo-ooh)
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+
+Listen to this
+
+I'm pushing to this stream
+Oh, those objects should be counted by now
+I know
+'Bout -u
+Well, ye-aahh
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+Oh, yeah
+I've waited for, waited for -u git
+(-u-hoo, hoo-hoo-ooh)
+Oh, yeah
+-u makes upstreams push true
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+-u and me, -u and me...
+(-u-hoo, -u, -hoo, -u-hoo, hoo, -u)
+I've waited for, waited for -u git
+-u makes upstreams push true
+Oh
+Oh-oh
+I've waited for, waited for, waited for, waited for, waited for, waited for
+-u makes my dreams
+I've been waiting for -u git",
+2014-01-06,Passion Pit,Sleepyhead,Sleepyhead,abstraction,https://www.youtube.com/watch?v=T0RvPYRRRbE,This week's song is an abstraction layer over Passion Pit's Sleepyhead. Think of it like Esperanto but with less of a one-to-one semantic relationship to other languages or like baby-babble but with more of a beat.,"Andyooased ay-wayz ly-fye ara-na brim
+Burnyng-sauld burnyng-thm dhbrourning rym
+
+Ly-k-sty-z burnyng-coles rytroodada-k
+Fleekgn fy-e ly saulghwaulgh choo-mayaz
+Yooweruninch frumthee ed-juvisbed
+Iygra-boo-baugh augh slee-pee-hed
+
+-Instrumental-
+
+Thay-kldendink ivsumdin-tsyey ddyey-yoo-booughrst
+Bithauwlyar-lines withauwlyar-myte-undauwlthare-therst
+Czeygh-kzrwld-yerbad-room lyksolm-kross wa-waren-thyn
+Aghenstah-wahz aghenstya-gooze aghenstya-skyn
+Mabid-widown tidi-flore-nawlthru thuhdore-z
+Awl-uryife bee-fore-n-gusskies lyke-a slee-pee hed, slee-pee hed
+
+-Instrumental-
+
+Ohwl-heeag",
+2013-12-23,Mariah Carey,All I Want For Christmas is brew,All I Want For Christmas Is You,"delimiters, spreadsheets, pipes",https://www.youtube.com/watch?v=yXQViqx6GMY,"The story of a brew install failing on a NumPy error right before Christmas. Note: The framework tcl/tk should be pronounced ""tickle-tock.""","I don't want a lot for Christmas
+There is just one tool I need
+I don't care about the presents
+Underneath the Christmas tree
+
+I just want to tcl/tk
+More than pip could ever stock
+Make my $path read true
+All I want for Christmas is brew
+
+I don't want a lot for Christmas
+There is just one thing I need
+And I don't care about the presents
+Underneath the Christmas tree
+
+I just tried to brew my frameworks
+From out there in cyberspace
+NumPy error don't make me happy
+Such an ""oy"" on Christmas Day
+
+I just want to tcl/tk
+More than pip could ever stock
+Make my $path read true
+All I want for Christmas is brew
+Brew, baby
+
+Oh, I won't ask for much this Christmas
+I don't really need GEOS
+So I'm just gonna keep on reading
+Plenty from Stack Overflow
+
+I won't write a list and post it
+Of seven ways.. that same ol' shtick
+I won't even stay awake to
+See those viral viewer clicks
+
+'Cause I just want brew here tonight
+Loading all the things so right
+What more can I do?
+Baby, all I want for Christmas is brew
+Brew, baby
+
+Oh, all the errors are shining
+Till I pull out my hair
+And the thought of building
+Tonight fills me with despair
+
+And everyone is singing
+I hear those sleigh bells ringing
+Fanta, won't you bring me energy I really need?
+Won't you please bring my library to me?
+
+Oh, I don't want a lot for Christmas
+This is all I'm asking for
+I just want to see my library
+Loading right without a chore
+
+I just want to tcl/tk
+More than pip could ever stock
+Make my $path read true
+All I want for Christmas is brew
+Brew, baby
+
+All I want for Christmas is brew, baby
+All I want for Christmas is brew, baby
+All I want for Christmas is brew, baby
+All I want for Christmas is brew, baby",
+2013-12-10,Macklemore & Ryan Lewis,Gif Shop,Thift Shop,gifs,https://www.youtube.com/watch?v=QK8mJJJvaes,,"Hey, Macklemore! Can we go gif shopping?
+
+What, what, what, what... [many times]
+
+Bada, badada, badada, bada... [x9]
+
+I'm gonna stitch some imgs
+Grammy gave me two pictures in a locket
+I - I - I'm draggin, looking for a line-up
+This is steampunk awesome
+
+I walk up to the lib like, ""What up? I found a sick shot!""
+I'm so pumped making grans with the gif shop
+Sepia on the fringe, pos stained by coffee
+That people like, ""Damn! That's from an old ass talkie.""
+Slide it in, scale it clean, I scan from a magazine,
+Bring it all neat, 'cept the paper's torn, that's my b
+Bright goes the machine, light shinin' through to me
+Probably shoulda framed this, holes like my fav'rite cheese
+(Swiiisssssssss)
+But shit, it was ninety-nine cents!
+(Send it) Croppin' it, watchin' it, 'bout to go and get some compliments
+Passin' up on 3D glyphin' someone else's been rockin' 'em
+Cyan and funky, 50s, man
+I am creatin' and sharin' and
+Savin' history and I'm hella happy that's some civic kitsch
+I'ma take your grandpa's files, I'ma take your grandpa's files,
+No for real - ask your grandpa - can I have his daguerrotypes? (Thank you)
+Fort Warren with some big cannon
+Jumping round yellow temple that I found diggin'
+They had a view of Lake George, I made a view of Lake George
+Made a steamship flank it, then I found a dock for't
+Hello, hello, my sweet fam, so mellow
+John Wayne ain't got nothing on her fringe game, hell no
+You could take some old scenes, glue em up, gif those
+NYPL heads would be like ""Aw, this techno's retro""
+
+I'm gonna stitch some imgs
+Grammy gave me two pictures in a locket
+I - I - I'm draggin, looking for the line-up
+This is steampunk awesome
+
+I'm gonna stitch some imgs
+Grammy gave me two pictures in a locket
+I - I - I'm draggin, looking for the line-up
+This is steampunk awesome
+
+I gif your granddad's dgos*
+They look incredible
+I see funambulists haute
+With that gif shop's sick ass code
+
+I gif your granddad's dgos* (damn right)
+They look incredible (now come on man)
+I see funambulists haute (funambulists haute)
+With that gif shop's sick ass code (let's go)
+
+I'm gonna stitch some imgs
+Grammy gave me two pictures in a locket
+I - I - I'm draggin, looking for the line-up
+This is steampunk awesome
+Is that your grandma's coat?
+
+* daguerrotypes",
+2013-11-18,LCD Soundsystem,"Snowfall, I Love You But You're Bringing Me Down","New York, I Love You But You're Bringing Me Down",snowfall,https://www.youtube.com/watch?v=-eohHwsplvY,,"Snow Fall, I Love You
+But you're bringing me down
+
+Snow Fall, I Love You
+But you're bringing me down
+
+A whole world in a page
+Optimized to engage
+
+Snow Fall, I Love You
+But you're bringing me down
+
+Snow Fall, a year older
+And you're wasting my time
+
+Our metrics all show
+Readers spend little time.
+
+But they Xeroxed your source
+When you opened the doors
+To execs who were told
+that it could save their site
+
+Snow Fall, you're perfect
+Don't please don't change a thing
+
+Your styled Pulitzer flare
+They're convinced you're a king
+
+So the knock-offs collect
+I mean all disrespect
+
+In the conference halls
+I'd once dreamt I would speak
+
+Snow Fall, I Love You
+But you're Jockey-ing me out
+
+You built yours on scrollkit
+So there's no need to tout
+
+They've been decking the halls
+I saw one on The Awl
+
+Snow Fall, I Love You
+But you're freaking me out
+
+Snow Fall, I Love You
+But you're scrolling me down
+
+Snow Fall, I Love You
+But you're scrolling me down
+
+Let's say 'Death to this art!'
+Duenes, where do I start?
+
+But you're still the one form
+That's more than a noun
+
+And oh.. Take me off this parallax kick
+For kids that think it's requisite
+Yes, for those who think it's requisite
+
+Maybe I'm wrong
+And maybe you're right
+Maybe I'm wrong
+And maybe you're right
+
+Maybe you're right
+Maybe I'm wrong
+And just maybe you're right
+
+And Ohhhhhhhhhhh..
+Maybe <a href=""http://publiceditor.blogs.nytimes.com/2013/08/20/who-gets-to-snow-fall-or-jockey-at-the-times-and-why/?_php=true&_type=blogs&_r=0"" target=""_blank"">Maggy</a> told you true
+And you'll get to Snow Fall with @KevinQ
+And you'll never scroll alone
+
+But maybe she's wrong
+And maybe I'm right
+And just maybe she's wrong
+
+Maybe she's wrong
+And maybe I'm right
+And if so, is there?",
+2013-05-08,Talking Heads,This Must Be Netscape,This Must Be The Place,"chrome, firefox, webkit, gecko, opera",https://www.youtube.com/watch?v=o9gK2fOq4MY,,"Chrome - is where I want to be
+Firefox always shuts down
+IE's numb - made without real art
+this is not the web we spun
+The less I use Safari the better
+Animating so much seems wrong
+Keep tabs around
+Memory's fine
+It's ok I know nothing's wrong... nothing
+
+Hiyah I inspect all my sites
+Hiyah You spot a blight in my styles
+And the network tab beside me
+Shows image rendering times
+Never too many
+Always enough
+Glue em up replace with sprites... replace with sprites.
+
+Chrome - is where i want to be
+But i guess i'm already there
+I come home -- she loaded my bookmarks
+I guess that this must be the place
+I can't sail the web with another
+Did i find you, or you find me?
+There was a time
+before you were born
+If someone asks, I used Opera 3... Opera 3.
+
+Hiya clear all my cache out
+Hiya speak this page with ""Ralph""
+Out of all those kinds of browsers
+You've got UX I can use
+I'm just a google'r looking for info
+Traverse the graph in a second or two
+And you store all my extensions
+Cookie's never dead
+Forms fill right up, ads out of view
+Filter out the spam bots
+Hit Gecko on the head - I go hooooh-oooooh",
+2013-10-14,Huey Lewis and the News,The Power of Gov,The Power of Love,government,https://www.youtube.com/watch?v=VkAVfsw5xSQ,,"The power of gov is a curious sitch
+Make a one man poor, make another man rich
+grind society into dystopic dust
+More than the ceiling, that’s the power of gov
+Tougher than Boehner, rich like Cruz
+Stronger and harder than unregulated booze
+Make the fed rate low, raise the money supply
+Power of gov, keeps you wondering why
+It’s not just money, it’s not just a bank,
+can’t cut the deficit to mend the state
+It’s strong and it’s sudden and it’s cruel sometimes
+But it might just save your life
+That’s the power of gov
+That’s the power of gov",
+2013-10-07,Michael Jackson,The Man in the Middle,The Man in the Mirro,"hacking, MITM, snowden, encryption, https, proxy",https://www.youtube.com/watch?v=P5vz6iwV38U,"an plaintiff ballad to the person man-in-the-middling you, asking them to change their ways","For once in my life
+You're gonna make a change
+It's gonna feel real good
+Gonna make a diff
+Gonna make it right
+
+As I, turn off the trust in
+My proxy from Blue Coat
+This algo is monitoring my mind
+I see the kids on their phone
+Put out enough to pwn
+How can they be so blind?
+Pretending not to see their leaks
+
+LulzSec disregard, a tin foil hat top
+Every man is a goal
+They follow each other on Twitter ya' know
+Contact chain easy to show
+That's why I want you to know
+
+I'm talking to the man in the middle
+I'm encrypting to evade his gaze
+And no message will ever be sent clear text
+If you want to make the net a safer place
+Take a look at yourself, and then make a change
+
+I've been a victim of a selfish kind of web
+It's time that I realize
+That there are some with no HTTPS, not a DNS to own
+Could it be really me, pretending they're not tracking?
+
+A web of trust deeply scared, Stallman's broken heart
+And a washed-out dream
+They follow the pattern worse is better ya' see
+'Cause they got no place to be
+That's why I'm starting with HTTP
+
+I'm starting with the man in the middle
+I'm encrypting to evade his gaze
+And no message will ever be sent clear text
+If you want to make the net a safer place
+Take a look at yourself, and then make a change
+
+I'm starting with the man in the middle
+I'm encrypting to evade his gaze
+And no message will ever be sent clear text
+If you want to make the net a safer place
+Take a look at yourself, and then make that
+Change!",
+2013-09-23,Whitney Houston,I Wanna Hack With Somebody,I Wanna Dance With Somebody,"C, hacking, sqlite",https://www.youtube.com/watch?v=eH3giaIzONA,,"Ah
+Yeah
+Wooo!
+
+Hey-ya
+Ha
+Hoo-ya
+Aha
+Yeah
+I want to hack
+
+Mac clicks into the power
+As the battery begins to fade
+Not enough time to figure out
+How best to load this page
+I've done alright up 'til now
+Stack overflow shows me how
+When sqlite stalls,
+Low-level code calls
+
+[Chorus:] x2
+Oh! I wanna hack with somebody
+Control-alt-delete with somebody
+Yeah! I wanna hack with somebody
+With somebody who loves C
+
+I’ve been in love and lost my senses
+Spinning servers up and down
+Sooner or later the fever ends
+And I get kicked off the cloud
+I need a clan maybe in finance
+Who can teach me to utilize my RAM
+When sqlite stalls
+Low-level code calls
+
+[Chorus:]
+Oh! I wanna hack with somebody
+I wanna be 1337 with somebody
+Yeah! I wanna hack with somebody
+With somebody who loves C
+
+Oh! I wanna hack with somebody
+I wanna autocomplete...
+Yeah! I wanna hack with somebody
+With somebody who loves C
+
+Somebody hoo! Somebody hoo!
+Somebody who loves C yeah!
+Somebody hoo! Somebody hoo!
+Controlling server farms, oh
+I need a clan maybe in finance
+Who can teach me to utilize my RAM
+When sqlite stalls
+Low-level code calls
+
+Oh, I wanna hack with somebody
+I wanna live tweet with somebody
+Yeah, I wanna hack with somebody
+With somebody who loves C
+Oh, I wanna hack with somebody
+I wanna gcc with somebody
+Yeah, I wanna hack with somebody
+With somebody who loves C
+
+Ooh--ooh hoooo
+HACK
+
+Come on baby
+
+HACK
+
+Wooohh
+
+Yeah!
+
+HACK
+
+Now get with this.
+
+Woah oh-oh-oh-oh
+
+HACK
+
+Don'tcha wanna hack
+HACK
+with me baby
+HACK
+Don'tcha wanna hack
+HACK
+With me boy
+Hey don'tcha wanna hack
+HACK
+With me baby
+With somebody who loves C
+
+Don'tcha wanna hack, say you wanna hack, don'tcha wanna hack
+HACK
+Don'tcha wanna hack, say you wanna hack, don'tcha wanna hack
+HACK
+Don'tcha wanna hack, say you wanna hack, uh-huh
+HACK
+With somebody who loves C
+
+Hoo-oooo
+
+HACK
+
+Hoo-oooo hooo
+
+HACK",
+2013-09-07,T.S. Eliot,Little Gidding,Little Gidding,postgis,,,"We shall not cease from st_transformation
+And the end of all our transforming
+Will be to arrive at where we started
+And to know the place for the first time",
+2013-09-10,Ice Cube,It Was a Good Day,It Was a Good Day,"logs, twitter, raspberry pi",https://www.youtube.com/watch?v=h4UqMyldS7Q,,"break
+
+yo
+
+Just waking up in the morning gotta thank God
+I don't know but today seems kinda odd
+No errors in my logs, no clog
+And HN's got a link out to my blog
+I got my Tweet on, but didn't flame out
+Finally got a follow from a girl we're gonna nerd out
+Hooked it up on the later as I hit the do'
+Thinking will my score grow, another twenty-fo'
+I can always go cause I got me a laptop
+And if I hit the switch, I can the tables drop
+Had to stop at a red light
+Raspberry Pi's just booting to our main site
+And everything is alright
+I got a beep from vim but I just choose overwrite
+IRC'd with the homies and I'm askin y'all
+Which port, are y'all logging server calls?
+Get me on the LAN and I'm trouble
+Last week mucked around and commandeered the Hubble
+Reimplemented RSA and blocked the NSA
+I can't believe, today was a good day",
+2013-08-13,Roxy Music,More Than This,,"JavaScript, this",,"More than this by Roxy Music re-imagined as an ode to the ups and downs of the ""this"" keyword in JavaScript.","I could feel at runtime
+There was no way of knowing
+this.showMe() was the line
+Who can say what it's showing
+So free without .bind()
+Hopefully referring
+To the ""Me"" in my mind
+With no sense of scoping
+
+More than this
+You know there's nothing more than this
+Tell me one thing more than this
+ooh there is nothing
+
+that = this was fun for a while
+There's a simple way of storing
+Which context was right
+And methods were going
+No care in the world
+Maybe I'm learning
+Why this this in a block
+Has no way of noting
+
+More than this
+You know there's nothing more than this
+Tell me one thing more than this
+ooh there is nothing
+
+More than this nothing
+More than this
+More than this nothing",
+2013-07-22,Vampire Weekend,Don't Lie,Don't Lie,"AWS, Mechanical Turk",,"This week, ""Don't Lie"" by Vampire Weekend re-imagined as a conversation between an obsessive Mechanical Turker and their would-be significant other who is trying to break the addiction.","One click sends cents all around
+Young bloods can't be settling down
+Young hearts need transcriptions inbound
+So serve me more my baby
+
+Don't lie, I want 'em to know
+AWS Turks die young, is he ready to go?
+It's my last time running this form
+But the drinks are free and the button is bold.
+
+I want to know, does it bother you?
+The low click of the ticking clock
+There's a lifetime right in front of you
+And everyone I know
+
+Young turks, young Saturday nights
+Young eyes shouldn't stare just at bytes
+Old flames to exist must ignite
+So close the screen my baby
+
+Don't lie, I want 'em to know
+Got high HIT now all tasks are gold
+It's my last time running this form
+But the drinks are free and the button is bold.
+
+I want to know, does it bother you?
+The low click of the ticking clock
+There's a headstone right in front of you
+And every Turk I know
+
+Don't lie, I want 'em to know
+AWS Turks die young, is he ready to go?
+It's not the last time running this form
+Cause the hires come fast and friction is low.
+
+I want to know, does it bother you?
+The low click of the ticking clock
+There's a lifetime right in front of you
+And every Turk I know",
+2013-05-27,Blind Melon,Tree,Three,"Path, Mac",,,"Tree
+That's the magic lumber
+Yes it is
+It's the magic lumber
+Somewhere in the data/bass community
+Was born tree - root, branch and leaf
+And that's the magic lumber
+
+(What does it all mean? )
+
+Difficult parsing is seldom a pleasure
+Pleasure and parsing starts from the root
+Script that reconstructs a node graph is the measure
+Measure out the branches, space to compute
+
+Casually su but don't do in that role
+'Cause suin' and doin' are actions for func keys
+Doin' data hustle, no block or poll
+Unless your name's ROOT_ERR, 'cause ROOT_ERR's too chunky
+
+Parents let go 'cause there's magic in the air
+Criticising stacks shows you're out of order
+Stop look and listen to the round-robin pairs
+And don't get offended when place row-to-row's your daughter
+
+A try-catch block and the loop is now set
+Nodes get stored in a d.a.I.s.y. production
+It stands for ""da inner source y'all"" and you can bet
+Our action lasts a tick, not slowing the function
+
+Everybody wants a tree in NodeJ
+Everybody wants to nest in D3
+But simple recurse is the best
+And you don't have to guess
+The C S V persists a tree
+And that's the magic lumber",
+2013-05-27,Will Smith,The Fresh Prince of My Macbook Air,The Fresh Prince of Bel-Air,"Path, Mac",https://www.youtube.com/watch?v=3qHA366oRMs,,"Now, this is a story all about how
+My PATH got flipped-turned upside down
+And I'd like to take a minute
+Just sit right there
+I'll tell you how I became the Prince of my MacBook Air.
+
+In Shenzhen, China, assembled and praised
+On the assembly line was where it spent most of its days
+Bootin' up, brewin' super-rootin' all cool
+Shootin' some sudo outside of school
+When a couple of guys
+Who were up to such guile
+Startin' making trouble in my bash profile
+They deleted one little colon, snickered and blared
+They said: ""You'll never eye imports my cursed little Air.""
+
+I pip'ed for my packages, kickin' the Mac into gear
+But scripts runnin' errors sayin': ""Yo this package ain't here.""
+If anything I can say is that this PATH's not aware
+So I let's echo and vet it: ""I'll fix you my Air!""
+
+I opened up my profile and saw about seven or eight folders running together.
+I yelled to the screen: ""Yo homes, you must delimit!""
+I re-saved my path.
+My packages were finally there.
+I sat on my throne as the Prince of my MacBook Air",
+2013-05-20,William Carlos Williams,Regular Expression,The Red Wheelbarrow,"Regular Expression, if-statement, for-loop",,,"so much depends
+upon
+
+regular
+expressions
+
+wrapped in if
+statements
+
+nested in for
+loops.",
+2013-05-17,Phoenix,Histomania,Litzomania,"histograms, data analysis, Poisson, Binomial",,,"So represent'ive
+Not represent'ive no
+Distribution all distorted yet
+Darling, skewed left and lonely
+When with the Poisson only
+I've been looking for something else
+Do let, do let, log of it, do let, do let, do
+
+Let's go slowly Bernoulli
+Different from another coin-toss on your favorite silver dollar
+This flip's pure randomness only, that's in the theory only
+No, I gotta pick something else
+These days a point comes, it comes, it comes, it comes, it comes and goes
+
+Histomania
+Skew left and see it grow
+Like a binom- like a binomial
+Fairly easily extended
+Not hard to bin them all
+From the peaks to the valleys
+
+Histomania
+Think negative and see it grow
+Like a binom- like a binomial
+Fairly easily extended
+Not hard to bin them all
+From the peaks to the valleys",
+2013-04-17,T.S. Eliot,The Pathland,The Wasteland,"path, brew, github, git, javascript, logs",,,"April is the cruelest month, kneading
+Knuckles onto keys, mixing
+Cases and conventions, stirring
+Dull roots that need sudo to brew.
+Winter kept us warm, covering
+Laps in heat sinks, feeding
+A little life a few volts a time.
+Summer surprised us, coming over the Hudson
+With a shower of rain; we stopped in the colonnade
+And went on in the sunlight, into the High-line park,
+And drank coffee, and talked for an hour.
+Bin gar keine Zeichner, stamm' aus Nachricht-Apps, echt Journalismus
+And when we were interns, seeing the mayor's,
+They took us shredding
+And I was frightened. He said, Marie,
+Marie, hold on tight. And down papers went.
+In the mountains, there you feel free.
+I code, much of the night, and go south in the winter.
+
+What are the roots that access the shell, what branches grow
+Out of this stony repo? Son of Octocat,
+You cannot say, or guess, for you know only
+A heap of broken aliases, where the path is faulty,
+And the dead tree cries four-ô-four, the reset --hard gives no relief,
+And the dry prompt blinking blinking, ready to tell you nothing was found. Only
+There is a shadow to this blinking prompt
+(Come in under the shadow of this blinking prompt),
+And I will show you something different from either
+The path in your shell pointing to your bash
+Or the path in your the shell rising to zsh;
+I will you show you news in a handful of binary.
+Frisch weht der Wind
+Der anderer Weg zu,
+Meine Schreiberzukunft
+Wo weilest du?
+""You gave me Mountain Lion first a year ago;
+They called me Mountain Lion girl.""
+--Yet when I booted up, late, from the Apple garden,
+Your arms full, and your lips pursed, I could not scroll,
+My gestures reversed, I was neither
+hosting Sites nor at the beach, but beach balls spin,
+Looking into the heart of rainbow's underworld twirling, the stillness.
+Öd und leer der Windrad
+
+Madame Sosostris, famous clairvoyante,
+Had a bad cold, nevertheless
+Is known to have the most abstract library in Europe,
+With a wicked pack of functions. Here, said she,
+Is your function, the drownedPhoenicianSailor
+```
+function (hisEyes) {
+  var pearls = hisEyes.toPearls()
+  return pearls;
+}
+```
+Here is Belladonna() // the Lady of the Rocks,
+// The lady of situations.
+Here is theManWithThreePipes(), and here theHowLoop(),
+And here is theOneCommasCsv(), and this noop,
+Which is blank, is something it extends,
+Which I am forbidden to see. I do not find
+theHangingLine(). Fear death by heap size.
+I see crowds of memory, doubling every 18 months.
+Thank you. If you see dear Mrs. Equitone,
+Tell her I bring the drive myself:
+One must be so careful these days.
+
+Unreal City,
+Under the brown fog of a winter dawn,
+A crowd flowed over Brooklyn Bridge, so many,
+I had not thought Maps had misdirected so many,
+Sighs, short and infrequent, were exhaled,
+And each one fixed his eyes before his screen.
+Flowed up the hill and down Old Fulton Street,
+To where Grimaldi's kept the hours
+With a dead line on the stroke of them all.
+There I saw one I knew and stopped him, crying ""Stetson!
+You who were with me in the /etc at Etsy!
+That worm you planted last year in the root,
+Has it begun to sprout? Will it bloom this year?
+Or has sudden vigilance disturbed its bed?
+
+Oh keep the logs far hence, that'll reduce it to text,
+With its reductions it'll dig it up!
+You! hypocrite codeur! mon semblable, --mon frère!",
+2013-04-09,Lewis Carrol,Fixiewocky,Jabberwocky,text file,,,"`Twas a fixie with poor slithy widths
+  Did gyre and gimble on the page:
+All mimsy were the headrares,
+  And the fly parths outdades.
+
+""Beware the Fixiewock, my son!
+  The line strings that bite, the indents that catch!
+Beware the Footnote bird, and shun
+  The frumious Text-to-columns-snatch!""
+
+He took his parsal Python in hand:
+  Long time the text foe he sought --
+So rested he by the RegEx tree,
+  And stood awhile in UltraEdit.
+
+And, as in csvish thought he stood,
+  The Fixiewock, with special characters of lame,
+Came whiffling through the hacky scraper,
+  And errbled as it came!
+
+One, two! One, two! And through and through
+  The parsal script went snicker-snack!
+He left it dead, and with its output
+  He went piping back.
+
+""And, has thou slain the Fixiewock?
+  Come to my arms, my tired boy!
+O frabjous day! Callooh! Callay!'
+  His values in his joy.
+
+`Twas a fixie with poor slithy widths
+  Did gyre and gimble on the page:
+All mimsy were the headrares,
+  And the fly parths outdades.",
+2013-03-12,Shakespeare,Hamlet,Hamlet,"dataframe, melt, R, factors",,,"O, that this 2x2 solid dataframe would melt
+apply and ggplot itself in multi hue!
+Oh that the Everlasting had not fix'd
+His canon 'gainst self-data-creation! O God! God!
+How weary, stale, flat and unprofitable,
+Seem all to me the histograms of this frame!
+Fie on't! ah fie! 'tis a factored string
+That yields to no falsity; vectors corrupted in nature
+Possess it merely. That it should come to this!
+But two months filed: nay, so much more, not two:
+So excellent a request; that was, to this,
+Tarbell to an Enquirer; so patient with the officer
+That I had not beteem these throaty chords
+Pronounce a tone too gruffly. Heaven and earth!
+Must I remember? Why, she would assure me,
+As if increase of surety had grown
+by extra days passing: and yet, after these months-
+Let me not think on't-Frailty, thy name is foia!-",
+2013-02-19,Geoffrey Chaucer,The Canterbury Tales,The Canterbury Tales,"delimiters, spreadsheets, pipes",,,"Whan that sqll with his [quæries](http://en.wiktionary.org/wiki/query) soote
+The droghte of [knowleche](http://en.wiktionary.org/wiki/knowledge) hath perced to the roote,
+And bathed every columne in swich licour
+Of which daghta engendred is in store
+Whan an editour eek with his sweete breeth
+Inspire hath in every [cubiculum](http://en.wiktionary.org/wiki/cubicle) and [tweeth](http://en.wiktionary.org/wiki/tweet)
+Tendre enquiry. And the yonge deadline
+Hath in the round not his fulle course align.
+Thanne longen folk to stert an investigation,
+And programmyrs for to seken straunge documentation.
+And specially from every shires ende
+Of newe yorke to csv soundsysteme they wende
+
+Join-us, wille yow?",
+2013-02-04,John Milton,With thee delimiting,"With thee conversing, Paradise Lost","delimiters, spreadsheets, pipes, queries",,,"With thee delimiting I forget all time,
+All columns and their widths, -- all please alike.
+Sweet is the breadth of pipes, her slender sweet,
+With charm of subtle descender; pleasant the for
+When first on this delightful frame it rolls
+Its augmenting loops, on string, int, float and var,
+Glist'ring with Monokai; flagrant the table's trends
+After quick cleaning; and sweet the coming on
+Of unique findings inspired; then silent study
+With this its slalom pipes and this fair query,
+And these the plots of heaven, her * train:
+But neither breadth of pipes when they slender
+With charm of subtle descender, nor looping for
+On this delightful frame, nor string, float, var,
+Glist'ring with Monokai, nor flagrance after cleaning,
+Nor unique findings inspired, nor silent study
+With this its slalom pipes, nor truth from query
+Or glittering * light, without thee is sweet.",
+2012-12-11,Original,Sonnet,,trim_trailing_white_space_on_save,,,"Last week saw
+Julian guffaw
+At my use so grave
+of no trim_trailing_white_space_on_save
+Thomas so productive
+and instructive
+had a computer
+No more giant art pad in pewter
+The quiche stale
+the crust pale
+Mint tea great
+Much we ate
+And much was done!
+At least one pun!
+Yet still much to do
+Join us, won't you?",
+2012-11-27,T.S. Eliot,The Love Song of J. Alfred Prufrock,The Love Song of A. Delimited Textblock,"poetry, spreadsheets, delimiters, quiche",,,"Let us type then, you and I,
+When the cells are spread out across our eye
+As our object's melted into a table.
+Let us go, through certain half-converted sheets,
+The muttering bip-bleeps
+Of mismatched types from one-night cheap cloud shells,
+All fluorescent glints in Telco hotels:
+Hallways that cut like layers in cake
+(Or quiche, it's with spinach they make)
+To lead you to an overwhelming question...
+Oh do not ask, ""What format is it?""
+Join us, won't you, to delimit?",
+2012-10-21,Original,Couplets,,"pipes, commas, tabs, delimiters, geocoding, quiche",,,"Commas pipes tabs and spaces
+When one goes astray it makes angry faces.
+Formatting addresses don't even get me started,
+My geocoded results are something Kepler would've charted.
+So bring your laptop and join in the fun ever so
+of making and scripting with csv & co.
+Tuesday at 7, there's beer wine and quiche
+Join us, won't you? Whatever your niche.",
+2012-10-16,Original,Limerick,,,,,"huzzah! huzzah! another CSV!
+join us, won't you? for quiche and tea.
+      all the bugs in your code
+      will most surely explode,
+and i might finally learn ruby.",

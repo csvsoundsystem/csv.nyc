@@ -1,0 +1,86 @@
+html {
+  font-size: 16px;
+}
+body {
+  font-family: monospace;
+  font-size: 62.5%;
+  padding-bottom: 20px;
+}
+#logo {
+  font-weight: bold;
+  color: #000;
+  font-size: 3.2em;
+  word-spacing: -0.5em;
+  text-shadow: -1px -1px 0 #1cfa05, 1px -1px 0 #1cfa05, -1px 1px 0 #1cfa05, 1px 1px 0 #1cfa05;
+}
+#search {
+  margin: 1em 0 1em 0;
+}
+#download:hover {
+  background-color: #1cfa05;
+  text-decoration: none;
+}
+#intro {
+  max-width: 800px;
+  width: 100%;
+}
+#intro p {
+  font-size: 1.4em;
+}
+#songs ul {
+  list-style: none;
+}
+#songs ul,
+#songs li {
+  margin: 0;
+  padding: 0;
+}
+#songs a {
+  padding: 0.2em 0 0.2em 0;
+  text-decoration: none;
+  font-size: 1.4em;
+}
+#songs a:hover {
+  text-decoration: none;
+}
+#songs a:hover li {
+  background-color: #1cfa05;
+}
+.song {
+  width: 100%;
+  max-width: 800px;
+}
+.song .artist,
+.song .title {
+  font-size: 3.4em;
+}
+.song .artist {
+  font-weight: bold;
+}
+.song .title {
+  margin-bottom: 0.7em;
+}
+.song .linerNotes {
+  color: #666;
+}
+.song .video a {
+  text-decoration: none;
+}
+.song .video a:hover {
+  background-color: #1cfa05;
+}
+.song .divider {
+  margin: 1.4em 0 1.4em 0;
+  font-size: 1.4em;
+}
+.song .linerNotes,
+.song .lyrics {
+  font-size: 1.4em;
+}
+@media only screen and (max-width: 500px) {
+  .hr,
+  .leader {
+    display: none;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
