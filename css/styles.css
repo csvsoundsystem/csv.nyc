@@ -6,6 +6,10 @@ body {
   font-size: 62.5%;
   padding-bottom: 20px;
 }
+a:hover {
+  background-color: #1cfa05;
+  text-decoration: none;
+}
 #logo {
   font-weight: bold;
   color: #000;
