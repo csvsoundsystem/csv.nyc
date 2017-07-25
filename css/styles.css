@@ -15,7 +15,7 @@ a:hover {
   color: #000;
   font-size: 3.2em;
   word-spacing: -0.5em;
-  text-shadow: -1px -1px 0 #1cfa05, 1px -1px 0 #1cfa05, -1px 1px 0 #1cfa05, 1px 1px 0 #1cfa05;
+  text-shadow: -2px -2px 0 #1cfa05, 1px -1px 0 #1cfa05, -1px 1px 0 #1cfa05, 1px 1px 0 #1cfa05;
 }
 #search {
   margin: 1em 0 1em 0;
