@@ -1,4 +1,4 @@
-date,artist,title,originalTitle,tags,video,linerNotes,lyrics,x2
+date,artist,title,originalTitle,tags,video,linerNotes,lyrics
 2017-05-08,Jennifer Lopez,Jenny from the blo.cks,Jenny from the Block,"blo.cks, gist,",https://www.youtube.com/watch?v=lUfcdJ9DPag,"the song this week is written by michael and julian: ""Jenny from the bl.ocks"". we are encouraging ourselves to make a bl.ock this week and we invite you to the same challenge and perhaps work on a bl.ock-chain of consecutive successful weeks.","Children gist and women producing
 Men go working
 Some go stealing
@@ -23,7 +23,7 @@ No matter where I code, I know where I forked from (Client-Side Bl.ocks!)
 Don't be fooled by the stars that I got
 I'm still, I'm still Jenny from the bl.ocks
 Used to have a little, now I have a lot
-No matter where I code, I know where I forked from (Client-Side Bl.ocks!)",
+No matter where I code, I know where I forked from (Client-Side Bl.ocks!)"
 2017-05-01,Kenny Rogers & The First Edition,Just Dropped In (To see what condition my conditional was in),Just Dropped In (To see what condition my condition was in),"git, if-statements, conditionals, try",https://www.youtube.com/watch?v=yhOKhJaM1QE,"the song this week is written by michael and julian as a story when you're just trying to fix one little if or try statement and end up on the other end of logic: ""Just Dropped In (To see what condition my condtional was in)"".","I woke up this morning with the keys glow shining in
 I found my code in a spaghetti mess within
 I pulled from the cloud and fell-a eight miles high
@@ -49,7 +49,7 @@ I said I just dropped in to see what condition my conditional was in
 
 Yeah
 yeah
-oh-yeah",
+oh-yeah"
 2017-04-17,Modest Mouse,Drone on,Float on,drones,https://www.youtube.com/watch?v=wSEsMpMxkg4,"this week's song, ""drone on"" from the impetuous modest mouse. credit is due to riordan from whose gifted mind this idea sprang.","I backed my drone into a copter the other day
 Well, he just flew off - sometimes life's okay
 I flew in your yard a bit too much, ah what did I see?
@@ -92,8 +92,8 @@ Already, we'll all drone on
 (Alright!)
 Now don't you worry, we'll all drone on
 (Alright!)
-We'll all drone on",
-2017-05-08,The Mountain Goats,The Best Ever jQuery Plugin Out of Newark,The Best Ever Death Metal Band Out of Denton,"jQuery, Jon Resig",collaboration,"this week's song is by the mountain goats: ""the best ever jquery plugin out of newark."" the original ""the best ever death metal band out of denton"" is a story about growing up as teenager and a death metal fan and the world doesn't understanding you. we didn't have to change much of the lyrics (with an assist from sam schlinkert).","The best ever jQuery plugin out of Newark
+We'll all drone on"
+2017-05-08,The Mountain Goats,The Best Ever jQuery Plugin Out of Newark,The Best Ever Death Metal Band Out of Denton,"jQuery, Jon Resig, collaboration",https://www.youtube.com/watch?v=4IsXKMkDAMQ,"this week's song is by the mountain goats: ""the best ever jquery plugin out of newark."" the original ""the best ever death metal band out of denton"" is a story about growing up as teenager and a death metal fan and the world doesn't understanding you. we didn't have to change much of the lyrics (with an assist from sam schlinkert).","The best ever jQuery plugin out of Newark
 Was a couple of guys who'd been friends since grad school
 One was named Cyrus, the other was Jeff
 And they refactored twice a week in Jeff's bedroom
@@ -121,7 +121,7 @@ Will in time both outpace and outlive you
 Hail Resig
 Hail Resig tonight
 Hail Resig
-Hail, hail",
+Hail, hail"
 2017-03-07,Blind Melon,.then() Chain,No rain,"Promises, async, NodeJs",https://www.youtube.com/watch?v=3qVPNONdF58,"this weeks's song is an ode to the difficulties one 90s band encountered while learning how to program asynchronously, Blind Melon's ""No Chain""","Ooooh oh-oh-oh-oh, oh-oh-oh-oh
 
 All I can say is asynchronicity's a pain
@@ -158,9 +158,9 @@ And we will have it made (I will have it made)
 Oh oh oh oh
 Oh oh oh oh
 
-(Oh Oh Oh)",
-2017-02-13,Gloria Estefan,Install Anaconda,Do the Conga,"python, anaconda, dependency management",https://www.youtube.com/watch?v=g8v6cZ21vlc,this weeks's song is a love ballad from Gloria Estefan and her flirtations with the anaconda data science package,"Come on, baby help me install, anaconda",
-2017-01-30,Smashing Pumpkins,Waterman Butterfly Wings,Bullet With Butterfly Wings,"shapefiles, gis, qgis, projections",,,"The world is a shapefile, centered on Spain
+(Oh Oh Oh)"
+2017-02-13,Gloria Estefan,Install Anaconda,Do the Conga,"python, anaconda, dependency management",https://www.youtube.com/watch?v=g8v6cZ21vlc,this weeks's song is a love ballad from Gloria Estefan and her flirtations with the anaconda data science package,"Come on, baby help me install, anaconda"
+2017-01-30,Smashing Pumpkins,Waterman Butterfly Wings,Bullet With Butterfly Wings,"shapefiles, gis, qgis, projections",https://www.youtube.com/watch?v=8-r-V0uK4u0,,"The world is a shapefile, centered on Spain
 Secret projections, morph you into their plane
 And what do I get, for my pain?
 Greenland's distortion, and Russia split in twain
@@ -209,7 +209,7 @@ And I still believe TopoJson will save
 And I still believe TopoJson will save
 And I still believe E-P-S-G will save
 And I still believe E-P-S-G will save
-And I still believe Q-G-I-S will save (pngs...)",
+And I still believe Q-G-I-S will save (pngs...)"
 2017-01-16,Counting Crows,My Smartphone,Mr. Jones,Phones,https://www.youtube.com/watch?v=-oqAU5VxFWs,"this week's song is a throwback to Counting Crows with ""My Smart Phone"", a song about the filtered imagined life of instagram and its endless desires for faves.","Da, ta, ta, ta, ta, ta, ta
 Mmm
 Uh huh
@@ -297,10 +297,10 @@ But we don't know why, and we don't know how
 But when everybody loves me
 I'm wanna be just about as happy as I can be
 My smart phones and me
-We're gonna be big stars",
+We're gonna be big stars"
 2017-01-04,Taylor Swift,Out of the Woods,Out of the Woods,reporting,https://www.youtube.com/watch?v=JLf9q36UsBk,"this week's song resumes our album with track four, out of the woods: a ballad about a reporter and a source who gets cold feet but in the end sticks to their quotes and pulls through a great story.
 
-tswift's 2014 hit, out of the woods. note: the original song is lyrically terrible, but we can't all bat a thousand","Looking at it now, it all seems so simple",
+tswift's 2014 hit, out of the woods. note: the original song is lyrically terrible, but we can't all bat a thousand","Looking at it now, it all seems so simple"
 2016-12-27,Folklore,"Table, Table, Table","Dreidl, Dreidl, Dreidl","tables, sql",,,"I have a little table. I made it out of data
 And if it fits in memory, then with my table I shall play.
 Oh table, table, table, I made it out of data
@@ -319,7 +319,7 @@ Oh table, table, table, let's go looking for tidbits!
 I have a little table. I made it out of data
 And if it fits in memory, then with my table I shall play.
 Oh table, table, table, I made it out of data
-Oh table, table, table with my table I shall play.",
+Oh table, table, table with my table I shall play."
 2016-11-01,Carly Rae Jepsen,Run Golang With Me,Run Away With Me,golang,https://www.youtube.com/watch?v=TeccAtqd5K8,"this week, albert and michael were going through a box of papers they got at a yard sale and came across an early draft of what turned out to be carly rae jepsen's ""Run Golang With Me."" she's always been on the cutting edge. and what a sax intro on this track! gets us every time.","I'm sick of my C, stuck on GC, feeling so shoddy shoddy
 I wanna run go, get out of here, be with the smarties smarties
 I'd run golang
@@ -399,7 +399,7 @@ Run golang with me
 Run golang with me
 
 Run golang with me
-Run golang with me",
+Run golang with me"
 2016-10-19,Elvis Presley,All Shook Up,All Shook Up,"yarn, NodeJs, npm, technological advancement",https://www.youtube.com/watch?v=3rQEbQJx5Bo,"this week's song comes to us from the king himself with a rendition of ""All Shook Up"" about the twisty-turvy world of development where the impact of new tools do indeed shake us up. the latest, which this song focuses on (with an assist from joanna kao), is facebook's npm replacement, yarn. it also achieves a longstanding goal of working the word ""skein"" into a csvmail.","A well'a bless my scroll
 What'sa wrong with me?
 I got this new dependency tree
@@ -439,7 +439,7 @@ I'm run'n yarn
 I'm all shook up
 Mm mm mm, mm mm, yay, yay, yay
 Mm mm, mm, yay, yay
-I'm all shook up",
+I'm all shook up"
 2016-09-20,Elton John,Tiny Data,Tiny Dancer,small data,https://www.youtube.com/watch?v=KBWfUc5jKiM,"this weeks's song, a reminder to keep things simple from elton john and his 1971 classic, ""Hold My Rows Here Tiny Data""","Sized in kb, fits in memory, a blink and you're in hand
 Pithy bytes, lightweight file, you're mary's little lamb
 Hadoop arena, you'll never see her sharded in bits and bands
@@ -488,7 +488,7 @@ You're all I need to know today
 Hold my rows here tiny data
 Don't need inches on a Blu-Ray
 Let me scroll spreadsheets with limits
-You're all I need to know today",
+You're all I need to know today"
 2016-09-06,Taylor Swift,Scrape It Off,Shake It Off,"scaping, taylor.swift",https://www.youtube.com/watch?v=nfWlot6h_JM,"your song this week, cut number six off of taylor.swift, the soon-to-be-released iOS Swift language package, the much-anticipated ""Scrape it Off"".","I stay up too late, made nothing to my name
 That's what people say mm-mm, that's what people say mm-mm
 I violate CFAA, but I can't trick your page
@@ -551,7 +551,7 @@ I, I scrape it off, I scrape it off
 I scrape it off, I scrape it off
 I, I scrape it off, I scrape it off
 I, I scrape it off, I scrape it off
-I, I scrape it off, I scrape it off",
+I, I scrape it off, I scrape it off"
 2016-08-23,Bob Dylan,Cache Control Plan,Mr. Tambourine Man,caching,https://www.youtube.com/watch?v=OeP4FFr88SQ,"this week, is a recently unearthed ballad of bob dylan's Cache Control Plan, a story about a tired engineer needing to enter the harried world of cache control and ultimately wondering how far caches could be taken.","Will this here Cache Control Plan, save a file for me
 I'm too sleepy and there ain't no docs I'm going read
 Hey, this here Cache Control Plan, save this file for me
@@ -615,7 +615,7 @@ Let me forget about today until tomorrow
 Will this here Cache Control Plan, save a file for me
 I'm too sleepy and there ain't no docs I'm going read
 Hey, this here Cache Control Plan, save this file for me
-In the beepy boopy morning they'll come callin' for you",
+In the beepy boopy morning they'll come callin' for you"
 2016-08-08,Simon & Garfunkel,XML Ya,Ceclia,"XML, parsing",https://www.youtube.com/watch?v=a5_QV97eYqM,"this week, in honor of those having to deal with the ever-changing AP olympics data feed, artisanally crafted in XML, we uncovered a rare B-side screed against the format by Simon & Garfunkel, who knew?","XML, ya, you're breaking my parse
 You're changing the schemas on me daily
 Oh, XML, ya, I'm down on my keys
@@ -647,7 +647,7 @@ I fall on the floor and I'm laughing
 Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
 Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
 Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh
-Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh",
+Whoah-oh-oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh"
 2016-07-12,The Clash,London Calling,London Calling,Internal,https://www.youtube.com/watch?v=EfK-WX2pa8c,,"London Colleen to the faraway crown
 Where vars are declared outside of midtown
 London Colleen to the mirror-world
@@ -688,10 +688,10 @@ An' you know what the data said? Well, some of it was true!
 London Colleen at the top of the fold
 And after all this, try not to catch a cold!
 
-I never felt so much a' like a'like a'like",
+I never felt so much a' like a'like a'like"
 2016-04-04,David Bowie,Modern Laws,Modern Love,Tax havens,https://www.youtube.com/watch?v=rJCBYUKMvMQ,"this week's song is a recent discovery. in going through david bowie's draft documents, they found modern love was originally written about tax havens, the businessmen that exploit them, and the lawmakers that enable them.
 
-here it is, the 1983 classic, Modern Laws",I know when to source out,
+here it is, the 1983 classic, Modern Laws",I know when to source out
 2016-01-11,David Bowie,*man,Starman,Surveillance,https://www.youtube.com/watch?v=tRcPA7Fzebw,"this week's song is a tribute to the late great david bowie with *starman. a psychodelic classic about an extraterrestrial traveler who searches all our systems in an effort to understand humankind. in a twist, he releases all data so that we, too, can gain such insights about ourselves.","Didn't know what time it was the lights were low oh-oh
 I dialed in to my lil micro oh-oh
 Some cat was layin down some rock'n grep lotta streams, he sed
@@ -728,7 +728,7 @@ Cause he knows it's all worthwhile
 He told me:
 Let the children lose it
 Let the children use it
-Let all the children search free",
+Let all the children search free"
 2015-08-24,Taylor Swift,Style,Style,CSS,https://www.youtube.com/watch?v=-CmadmM5cOk,"in a song that seeks to transcend time, tay describes two young lovers as they try on roles across juxtaposing eras of techno-aesthetics. they betray their modernity when they describe the vintage character types they've assumed using the language of modern css color names and browser repaints.","Tonight, you come and paint me up, no deadline
 Long file, could end in burning flames or paradise
 Fade into view, oh,
@@ -771,14 +771,14 @@ Yeah just take me ~, oh
 (Out of style) You got that salty Stallman look in your eye
 And I got that Susan Kare square thing that you like
 And when we go crashing down, we come back every time
-'Cause we never go out of style, we never go out of .styl",
+'Cause we never go out of style, we never go out of .styl"
 2015-08-04,Taylor Swift,Blank Space,Blank Space,"GitHub, Git, taylor.swift",https://www.youtube.com/watch?v=e-ORhEE9VVg,"one of the great things about having taylor swift as your friend is she shares all of her first drafts and aborted attempts at song writing with you. here's a few verses from the first draft blank space, which was originally about collaborating with people who use spaces and tabs and how these ""invisible lies"" can silently ruin a good merge.
 
 this new read on the title shows how much of a concept album wgs 1984 was meant to be. the branch from the first track ""won't you merge my fork"" is now showing its dark side as reality and aspirations collide.
 
 t is ambiguous about whether she is using tabs or they are, choosing to keep questions open for the listener.
 
-the fact that ""blank space"" ended up being about immature romance shows the strong commercial pressure the studio put on the piece.","Vices, habits, monokai",
+the fact that ""blank space"" ended up being about immature romance shows the strong commercial pressure the studio put on the piece.","Vices, habits, monokai"
 2015-08-04,Taylor Swift,Won't you merge my fork,Welcome to New York,"GitHub, Git, taylor.swift",https://www.youtube.com/watch?v=ccenFp_3kq8,"this week is auspicious in csvmail history for reasons that will become clear over the next thirteen weeks. it started when taylor swift came to the brooklyn bridge park last week to hang out with us and dropped some rare cuts and japanese imports no one had ever heard before.
 
 with her permission, here's an early draft ""Won't You Merge My Fork?"", which is a about the life of someone who searches projects for security vulnerabilities and fixes them via pull request.
@@ -846,7 +846,7 @@ So slight, they don't escape me
 Won't you merge my fork?
 Won't you merge my fork?
 
-* slang for 0-day",
+* slang for 0-day"
 2015-06-01,The Rolling Stones,I Can't Get Node (Satisfaction),I Can't Get Node (Satisfaction),NodeJS,https://www.youtube.com/watch?v=3a7cHPy04s8,"the song this week written by recently departed (back to the uk) julian burgess is the rolling stones 1965 tour de force ""i can't get node (satisfaction), which was amazingly ahead of its time predicting the difficulty in staying on top of the fast moving world of v8 implementations.","I can't get node satisfaction
 I can't get node satisfaction
 'Cause I try and I try and I try and I try
@@ -882,8 +882,8 @@ I can't get node, oh node node node
 Hey hey hey, that's what I say
 I can't get node, I can't get node
 I can't get node satisfaction
-Node satisfaction, node satisfaction, node satisfaction",
-2015-03-17,Twin Shadow,Hash Rocket Through My Heart,Five Seconds (To My Heart),Ruby,https://www.youtube.com/watch?v=ccenFp_3kq8,"This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/. In tribute, called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 looks really promising and he's looking forward to the future. Here's what he sent us:",Hash rocket through my heart,
+Node satisfaction, node satisfaction, node satisfaction"
+2015-03-17,Twin Shadow,Hash Rocket Through My Heart,Five Seconds (To My Heart),Ruby,https://www.youtube.com/watch?v=ccenFp_3kq8,"This week, we pour one out for Ruby 1.9.3, which was officially deprecated last month: https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/. In tribute, called up Twin Shadow who coincidentally said he had this half-written already. He said he was sad to see 1.9.3 go — it has been good to him all these years — but at the time time, 2.0.0 looks really promising and he's looking forward to the future. Here's what he sent us:",Hash rocket through my heart
 2015-03-10,Hall & Oates,I Can't Code for that (Code Can't Do),I Can't Go for that (No Can Do),Project management,https://www.youtube.com/watch?v=ccenFp_3kq8,"the csvsong this weeks sees us flashing back all the way to 1982 for the Hall & Oates classic ""I Can't Code for that (Code Can't Do)"" — a song about understanding what problems technology tools can solve and what issues can only be fixed through changing organizational culture and a strong understanding of business strategy. way head of their time this duo — but we knew that.","Easy, ready, willing, overtime
 Who does your s.w.o.t.
 Do you believe them
@@ -963,7 +963,7 @@ Code can't do
 I can't code for that
 Can't code for that
 Can't code for that
-Can't code for that, yeah",
+Can't code for that, yeah"
 2015-03-02,Carly Rae Jepsen,"Callback, maybe","Call me, maybe",JavaScript,https://www.youtube.com/watch?v=fWNaR-rxAic,,"I threw an exception in console
 Don't ask me how I never know
 I looked at stack overflow
@@ -1048,7 +1048,7 @@ I programmed so bad
 I programmed so bad
 I programmed so so bad
 And you should know that
-So callback, maybe",
+So callback, maybe"
 2014-11-25,Grandmaster Flash and the Furious Five,The Message,The Message,"Flash, JavaScript, geocities, git, Django, jQuery, CSS, SEO, blink, table",https://www.youtube.com/watch?v=O4o8TeqKhgY,,"My code is bungled sometimes
 It makes me wonder how I keep on getting funders
 
@@ -1080,10 +1080,66 @@ She had to dig a trench, you gotta make your own phone
 Don't push me; cause my code's bleeding edge
 I'm not ready to become HEAD
 My code is bungled sometimes
-It makes me wonder how I keep on getting funders",
+It makes me wonder how I keep on getting funders"
 2014-09-02,Gotye (feat. Kimbra),Now You're Just Somebody That I Used to You,Now You're Just Somebody That I Used to Know,"friendster, relationships, yo",https://www.youtube.com/watch?v=8UVNT4wvIGY,"This week's song, Gotye (feat. Kimbra) with ""Somebody that I used to Yo."" A song about navigating digital-age relationships, which are often mediated through apps and other platforms that dictate the terms and channels of communication.
 
-The protagonist has been cut out from Kimbra's life because he has not kept up the pace of adoption — partly because he finds the level of information these apps require as being too invasive.",Now and then I think when all we had was Friendster,
+The protagonist has been cut out from Kimbra's life because he has not kept up the pace of adoption — partly because he finds the level of information these apps require as being too invasive.","Now and then I think when all we had was Friendster
+Like logging on you felt so creepy you could spy
+Told myself that it wasn't right for me
+But felt so lonely without company
+But that was love and it's an ache I still remember
+
+You can get addicted to a certain kind of closeness
+Like fascination with a trend, always a trend
+So when you found that I could not keep up
+Well you said that we would still be friends
+But I'll admit that I just knew that it was over
+
+But you didn't have to cut me off
+Make out like it never happened and that we were nothing
+And I don't even need your love
+But you treat me like a stranger and that feels so rough
+No I won't be signing up for Lo
+Have your friends collect your records and then see you slumber
+
+I guess that I don't need that though
+Now you're just somebody that I used to Yo
+
+Now you're just somebody that I used to Yo
+Now you're just somebody that I used to Yo
+
+
+Now and then I think of all the times you missed my postings
+But had me believing it was always something your phone'd done
+But I don't wanna relive my rave
+Telling you every place I fave
+You let your inner Luddite show
+And I'll never get all hung up on somebody that I used to Yo
+
+But you didn't have to cut me off
+Make out like it never happened and that we were nothing
+And I don't even need your love
+But you treat me like a stranger and that feels so rough
+No I won't be signing up for Lo
+Have your friends collect your records and then see you slumber
+
+I guess that I don't need that though
+Now that there's Somebody there's no use for Yo
+
+Somebody
+(No use for Yo)
+Somebody
+(Now that there's Somebody there's no use for Yo)
+
+Somebody
+(No use for Yo)
+Somebody
+(Now that there's Somebody there's no use for Yo)
+
+(No use for Yo)
+(There's no use for Yo)
+(No use for Yo)
+Somebody"
 2014-07-14,The Cascades,Listening Algorithms on the Contact Chain,,Algorithms,http://www.youtube.com/watch?v=lC2Fu20X_KY&feature=kp,"your song this week is a reprise from july '14: the Cascades' 1962 classic ""Algorithms on the Contact Chain"" -- the prescient ballad of a love who flees the singer after he reveals his suspicions of being surveilled, putting her under the two-hop threshold.","Listening algorithms on the contact chain
 Telling me just what a tool I've been
 I wish that it would go and let me cry in vain
@@ -1116,7 +1172,7 @@ Oh, listen to the contact chain
 Chitter chatter, chitter chatter
 Oh, listen, listen to the contact chain
 Chitter chatter, chitter chatter
-Oh, listen, listen to the contact chain",
+Oh, listen, listen to the contact chain"
 2014-06-30,10cc,CAPSLOCK HOLIDAY,Dreadlock Holiday,"capslock, twitter",https://www.youtube.com/watch?v=PbdCvzF4qqw,"This week, 10cc's 1978 hit ""Caps Lock Holiday"" -- the story of a young person who may or may not be Oprah discovering the joys of writing in all caps.","I was writin' down a tweet
 Concentratin' on tappin' right
 I heard a bright voice inside of me
@@ -1187,7 +1243,7 @@ I LOVE IT (CAPS LOCK HOLIDAY)
 I DON'T LIKE SHOUTING
 I LOVE IT (CAPS LOCK HOLIDAY)
 I DON'T LIKE THE COMMA
-I LOVE (CAPS LOCK HOLIDAY)",
+I LOVE (CAPS LOCK HOLIDAY)"
 2016-05-08,The Drifters,On the Root,Up On a Roof,"root, tilde",https://www.youtube.com/watch?v=puM1k-S86nE,,"When this old box starts shutting me down
 Permissions are too much for me to face
 I climb way up to top of the stack
@@ -1216,7 +1272,7 @@ Up on the roo-oo-oot (up on the root)
 Oh, come on, baby (up on the root)
 Oh, come on, honey (up on the root)
 
-Everything is all right (up on the root)",
+Everything is all right (up on the root)"
 2016-05-08,The Knife,Heartbleed,Heartbeats,"heartbleed, https",https://www.youtube.com/watch?v=wcv3v6XfEvM,,"One bug to reproduce
 One bug to be abused
 We had a promise made
@@ -1301,7 +1357,7 @@ Sharing different heartbeats in one night
 To call for hands of above to lean on
 Wouldn't be good enough for me, no
 To call for hands of above to lean on
-Wouldn't be good enough for me, oh",
+Wouldn't be good enough for me, oh"
 2014-03-31,Bob Dylan,It Ain't Js Babe,It Ain't Me Babe,"async, javascript",https://www.youtube.com/watch?v=4d8o8vNTNao,"this week's song is a throwback to Counting Crows with ""My Smart Phone"", a song about the filtered imagined life of instagram and its endless desires for faves.","Go 'way from browser window
 For interpreted I've sure got speed
 I'm not the one you want, babe
@@ -1339,7 +1395,7 @@ An' to return each time you setTimeout
 A lover for you HTML an' nothing more
 But it ain't JS, babe
 No, no, no, it ain't JS, babe
-It ain't JS you're lookin' for, babe.",
+It ain't JS you're lookin' for, babe."
 2014-02-04,Hall & Oates,-u makes upstream push true,You Make My Dreams (come true),git,https://www.youtube.com/watch?v=X_I4wtNPv5w,this week's song is about the magic of the -u flag for making sure your upstream remote pushes true to origin (or what havey ou),"What I want -u's got
 And it might need to auth my handle
 Type your name that hangs up on the mantle
@@ -1401,7 +1457,7 @@ Oh
 Oh-oh
 I've waited for, waited for, waited for, waited for, waited for, waited for
 -u makes my dreams
-I've been waiting for -u git",
+I've been waiting for -u git"
 2014-01-06,Passion Pit,Sleepyhead,Sleepyhead,abstraction,https://www.youtube.com/watch?v=T0RvPYRRRbE,This week's song is an abstraction layer over Passion Pit's Sleepyhead. Think of it like Esperanto but with less of a one-to-one semantic relationship to other languages or like baby-babble but with more of a beat.,"Andyooased ay-wayz ly-fye ara-na brim
 Burnyng-sauld burnyng-thm dhbrourning rym
 
@@ -1421,7 +1477,7 @@ Awl-uryife bee-fore-n-gusskies lyke-a slee-pee hed, slee-pee hed
 
 -Instrumental-
 
-Ohwl-heeag",
+Ohwl-heeag"
 2013-12-23,Mariah Carey,All I Want For Christmas is brew,All I Want For Christmas Is You,"delimiters, spreadsheets, pipes",https://www.youtube.com/watch?v=yXQViqx6GMY,"The story of a brew install failing on a NumPy error right before Christmas. Note: The framework tcl/tk should be pronounced ""tickle-tock.""","I don't want a lot for Christmas
 There is just one tool I need
 I don't care about the presents
@@ -1488,7 +1544,7 @@ Brew, baby
 All I want for Christmas is brew, baby
 All I want for Christmas is brew, baby
 All I want for Christmas is brew, baby
-All I want for Christmas is brew, baby",
+All I want for Christmas is brew, baby"
 2013-12-10,Macklemore & Ryan Lewis,Gif Shop,Thift Shop,gifs,https://www.youtube.com/watch?v=QK8mJJJvaes,,"Hey, Macklemore! Can we go gif shopping?
 
 What, what, what, what... [many times]
@@ -1552,7 +1608,7 @@ I - I - I'm draggin, looking for the line-up
 This is steampunk awesome
 Is that your grandma's coat?
 
-* daguerrotypes",
+* daguerrotypes"
 2013-11-18,LCD Soundsystem,"Snowfall, I Love You But You're Bringing Me Down","New York, I Love You But You're Bringing Me Down",snowfall,https://www.youtube.com/watch?v=-eohHwsplvY,,"Snow Fall, I Love You
 But you're bringing me down
 
@@ -1636,7 +1692,7 @@ And just maybe she's wrong
 
 Maybe she's wrong
 And maybe I'm right
-And if so, is there?",
+And if so, is there?"
 2013-05-08,Talking Heads,This Must Be Netscape,This Must Be The Place,"chrome, firefox, webkit, gecko, opera",https://www.youtube.com/watch?v=o9gK2fOq4MY,,"Chrome - is where I want to be
 Firefox always shuts down
 IE's numb - made without real art
@@ -1675,7 +1731,7 @@ And you store all my extensions
 Cookie's never dead
 Forms fill right up, ads out of view
 Filter out the spam bots
-Hit Gecko on the head - I go hooooh-oooooh",
+Hit Gecko on the head - I go hooooh-oooooh"
 2013-10-14,Huey Lewis and the News,The Power of Gov,The Power of Love,government,https://www.youtube.com/watch?v=VkAVfsw5xSQ,,"The power of gov is a curious sitch
 Make a one man poor, make another man rich
 grind society into dystopic dust
@@ -1689,7 +1745,7 @@ can’t cut the deficit to mend the state
 It’s strong and it’s sudden and it’s cruel sometimes
 But it might just save your life
 That’s the power of gov
-That’s the power of gov",
+That’s the power of gov"
 2013-10-07,Michael Jackson,The Man in the Middle,The Man in the Mirro,"hacking, MITM, snowden, encryption, https, proxy",https://www.youtube.com/watch?v=P5vz6iwV38U,"an plaintiff ballad to the person man-in-the-middling you, asking them to change their ways","For once in my life
 You're gonna make a change
 It's gonna feel real good
@@ -1738,7 +1794,7 @@ I'm encrypting to evade his gaze
 And no message will ever be sent clear text
 If you want to make the net a safer place
 Take a look at yourself, and then make that
-Change!",
+Change!"
 2013-09-23,Whitney Houston,I Wanna Hack With Somebody,I Wanna Dance With Somebody,"C, hacking, sqlite",https://www.youtube.com/watch?v=eH3giaIzONA,,"Ah
 Yeah
 Wooo!
@@ -1848,11 +1904,11 @@ HACK
 
 Hoo-oooo hooo
 
-HACK",
+HACK"
 2013-09-07,T.S. Eliot,Little Gidding,Little Gidding,postgis,,,"We shall not cease from st_transformation
 And the end of all our transforming
 Will be to arrive at where we started
-And to know the place for the first time",
+And to know the place for the first time"
 2013-09-10,Ice Cube,It Was a Good Day,It Was a Good Day,"logs, twitter, raspberry pi",https://www.youtube.com/watch?v=h4UqMyldS7Q,,"break
 
 yo
@@ -1876,8 +1932,8 @@ Which port, are y'all logging server calls?
 Get me on the LAN and I'm trouble
 Last week mucked around and commandeered the Hubble
 Reimplemented RSA and blocked the NSA
-I can't believe, today was a good day",
-2013-08-13,Roxy Music,More Than This,,"JavaScript, this",,"More than this by Roxy Music re-imagined as an ode to the ups and downs of the ""this"" keyword in JavaScript.","I could feel at runtime
+I can't believe, today was a good day"
+2013-08-13,Roxy Music,More Than This,,"JavaScript, this",https://www.youtube.com/watch?v=kOnde5c7OG8,"More than this by Roxy Music re-imagined as an ode to the ups and downs of the ""this"" keyword in JavaScript.","I could feel at runtime
 There was no way of knowing
 this.showMe() was the line
 Who can say what it's showing
@@ -1907,8 +1963,8 @@ ooh there is nothing
 
 More than this nothing
 More than this
-More than this nothing",
-2013-07-22,Vampire Weekend,Don't Lie,Don't Lie,"AWS, Mechanical Turk",,"This week, ""Don't Lie"" by Vampire Weekend re-imagined as a conversation between an obsessive Mechanical Turker and their would-be significant other who is trying to break the addiction.","One click sends cents all around
+More than this nothing"
+2013-07-22,Vampire Weekend,Don't Lie,Don't Lie,"AWS, Mechanical Turk",https://www.youtube.com/watch?v=bg4c3L0rq1Q,"This week, ""Don't Lie"" by Vampire Weekend re-imagined as a conversation between an obsessive Mechanical Turker and their would-be significant other who is trying to break the addiction.","One click sends cents all around
 Young bloods can't be settling down
 Young hearts need transcriptions inbound
 So serve me more my baby
@@ -1946,8 +2002,8 @@ Cause the hires come fast and friction is low.
 I want to know, does it bother you?
 The low click of the ticking clock
 There's a lifetime right in front of you
-And every Turk I know",
-2013-05-27,Blind Melon,Tree,Three,"Path, Mac",,,"Tree
+And every Turk I know"
+2013-05-27,Blind Melon,Tree,Three,"Path, Mac",https://www.youtube.com/watch?v=LVfe6rdHRKI,,"Tree
 That's the magic lumber
 Yes it is
 It's the magic lumber
@@ -1982,7 +2038,7 @@ Everybody wants to nest in D3
 But simple recurse is the best
 And you don't have to guess
 The C S V persists a tree
-And that's the magic lumber",
+And that's the magic lumber"
 2013-05-27,Will Smith,The Fresh Prince of My Macbook Air,The Fresh Prince of Bel-Air,"Path, Mac",https://www.youtube.com/watch?v=3qHA366oRMs,,"Now, this is a story all about how
 My PATH got flipped-turned upside down
 And I'd like to take a minute
@@ -2008,7 +2064,7 @@ I opened up my profile and saw about seven or eight folders running together.
 I yelled to the screen: ""Yo homes, you must delimit!""
 I re-saved my path.
 My packages were finally there.
-I sat on my throne as the Prince of my MacBook Air",
+I sat on my throne as the Prince of my MacBook Air"
 2013-05-20,William Carlos Williams,Regular Expression,The Red Wheelbarrow,"Regular Expression, if-statement, for-loop",,,"so much depends
 upon
 
@@ -2019,8 +2075,8 @@ wrapped in if
 statements
 
 nested in for
-loops.",
-2013-05-17,Phoenix,Histomania,Litzomania,"histograms, data analysis, Poisson, Binomial",,,"So represent'ive
+loops."
+2013-05-17,Phoenix,Histomania,Litzomania,"histograms, data analysis, Poisson, Binomial",https://www.youtube.com/watch?v=uF3reVVUbio,,"So represent'ive
 Not represent'ive no
 Distribution all distorted yet
 Darling, skewed left and lonely
@@ -2046,7 +2102,7 @@ Think negative and see it grow
 Like a binom- like a binomial
 Fairly easily extended
 Not hard to bin them all
-From the peaks to the valleys",
+From the peaks to the valleys"
 2013-04-17,T.S. Eliot,The Pathland,The Wasteland,"path, brew, github, git, javascript, logs",,,"April is the cruelest month, kneading
 Knuckles onto keys, mixing
 Cases and conventions, stirring
@@ -2131,7 +2187,7 @@ Or has sudden vigilance disturbed its bed?
 
 Oh keep the logs far hence, that'll reduce it to text,
 With its reductions it'll dig it up!
-You! hypocrite codeur! mon semblable, --mon frère!",
+You! hypocrite codeur! mon semblable, --mon frère!"
 2013-04-09,Lewis Carrol,Fixiewocky,Jabberwocky,text file,,,"`Twas a fixie with poor slithy widths
   Did gyre and gimble on the page:
 All mimsy were the headrares,
@@ -2165,7 +2221,7 @@ O frabjous day! Callooh! Callay!'
 `Twas a fixie with poor slithy widths
   Did gyre and gimble on the page:
 All mimsy were the headrares,
-  And the fly parths outdades.",
+  And the fly parths outdades."
 2013-03-12,Shakespeare,Hamlet,Hamlet,"dataframe, melt, R, factors",,,"O, that this 2x2 solid dataframe would melt
 apply and ggplot itself in multi hue!
 Oh that the Everlasting had not fix'd
@@ -2183,7 +2239,7 @@ Pronounce a tone too gruffly. Heaven and earth!
 Must I remember? Why, she would assure me,
 As if increase of surety had grown
 by extra days passing: and yet, after these months-
-Let me not think on't-Frailty, thy name is foia!-",
+Let me not think on't-Frailty, thy name is foia!-"
 2013-02-19,Geoffrey Chaucer,The Canterbury Tales,The Canterbury Tales,"delimiters, spreadsheets, pipes",,,"Whan that sqll with his [quæries](http://en.wiktionary.org/wiki/query) soote
 The droghte of [knowleche](http://en.wiktionary.org/wiki/knowledge) hath perced to the roote,
 And bathed every columne in swich licour
@@ -2197,7 +2253,7 @@ And programmyrs for to seken straunge documentation.
 And specially from every shires ende
 Of newe yorke to csv soundsysteme they wende
 
-Join-us, wille yow?",
+Join-us, wille yow?"
 2013-02-04,John Milton,With thee delimiting,"With thee conversing, Paradise Lost","delimiters, spreadsheets, pipes, queries",,,"With thee delimiting I forget all time,
 All columns and their widths, -- all please alike.
 Sweet is the breadth of pipes, her slender sweet,
@@ -2215,7 +2271,7 @@ On this delightful frame, nor string, float, var,
 Glist'ring with Monokai, nor flagrance after cleaning,
 Nor unique findings inspired, nor silent study
 With this its slalom pipes, nor truth from query
-Or glittering * light, without thee is sweet.",
+Or glittering * light, without thee is sweet."
 2012-12-11,Original,Sonnet,,trim_trailing_white_space_on_save,,,"Last week saw
 Julian guffaw
 At my use so grave
@@ -2231,7 +2287,7 @@ Much we ate
 And much was done!
 At least one pun!
 Yet still much to do
-Join us, won't you?",
+Join us, won't you?"
 2012-11-27,T.S. Eliot,The Love Song of J. Alfred Prufrock,The Love Song of A. Delimited Textblock,"poetry, spreadsheets, delimiters, quiche",,,"Let us type then, you and I,
 When the cells are spread out across our eye
 As our object's melted into a table.
@@ -2243,7 +2299,7 @@ Hallways that cut like layers in cake
 (Or quiche, it's with spinach they make)
 To lead you to an overwhelming question...
 Oh do not ask, ""What format is it?""
-Join us, won't you, to delimit?",
+Join us, won't you, to delimit?"
 2012-10-21,Original,Couplets,,"pipes, commas, tabs, delimiters, geocoding, quiche",,,"Commas pipes tabs and spaces
 When one goes astray it makes angry faces.
 Formatting addresses don't even get me started,
@@ -2251,9 +2307,9 @@ My geocoded results are something Kepler would've charted.
 So bring your laptop and join in the fun ever so
 of making and scripting with csv & co.
 Tuesday at 7, there's beer wine and quiche
-Join us, won't you? Whatever your niche.",
+Join us, won't you? Whatever your niche."
 2012-10-16,Original,Limerick,,,,,"huzzah! huzzah! another CSV!
 join us, won't you? for quiche and tea.
       all the bugs in your code
       will most surely explode,
-and i might finally learn ruby.",
+and i might finally learn ruby."
